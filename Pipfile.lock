@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "5d91b2e0538563b509d56ccbf0ff32b3c78b27c832d3154860ac1fccc0c60151"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "nimrod": {
+            "hashes": [
+                "sha256:6ee67e3aee81d08ad9a260b000b1fdde9a0fb72dee5ceb4a8ad36c317477d074"
+            ],
+            "index": "pypi",
+            "version": "==0.1.2"
+        }
+    },
+    "develop": {}
+}
