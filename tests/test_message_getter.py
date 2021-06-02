@@ -1,7 +1,7 @@
 import unittest
 import os
 
-from froyobot.message_getter import MessageGetter
+from froyobot.message_getter import MessageGetter 
 
 class TestMessageGetter(unittest.TestCase):
 
