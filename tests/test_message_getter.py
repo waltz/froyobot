@@ -10,8 +10,12 @@ class TestMessageGetter(unittest.TestCase):
 
     def test_get_data_files(self):
         files = self.messageGetter.findDataFiles()
-        
-        self.assertEqual(files, ['blank', 'bird_noises', 'dog_noises', 'has_a_context'])
+        files.sort()
+
+        expected = ['blank', 'bird_noises', 'has_a_context', 'dog_noises']
+        expected.sort()
+
+        self.assertListEqual(files, expected)
 
     def test_get_message(self):
         message = self.messageGetter.getMessage('dog_noises')
