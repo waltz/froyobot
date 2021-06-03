@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 nimrod = "*"
+twitter = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
