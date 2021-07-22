@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+
+# Generate a phrase and tweet it out.
+
+pipenv run python tweet.py
