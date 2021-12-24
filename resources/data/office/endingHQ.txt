@@ -1,0 +1,11 @@
+MOE:$name, come on down to headquarters! We're partying like crazy!
+1
+MOE:We're back baby! Good work on the commercial!
+1
+MOE:We'll give you a good reference on your resume!
+1.5
+SATAN:Gentlemen, a toast!
+1
+SATAN:The sky is the limit!
+5
+END

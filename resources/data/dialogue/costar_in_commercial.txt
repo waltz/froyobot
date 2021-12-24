@@ -1,0 +1,44 @@
+0>Would you care to try Bob Yogurt™?
+1)I would love to!
+3)Lemme at it! Give me that Bob Yogurt™!!!
+4)I don't think so.
+
+1>Please let us know what you think!
+2)Thank you, I will.
+
+2>END
+
+3>My, aren't we enthusiastic?
+Well don't let me stop you, try some!
+5)YES!!! BOB YOGURT™!!!! OH MY GOD!
+2)Thank you, I will!
+4)On second thought, why should I?
+
+4>Well, um...
+Uh...
+Perhaps I can convince you!
+Did you know that Bob Yogurt™ has less than 15 calories per bite?
+2)That's too many calories for me! Goodbye!
+5)And the protein content? You must tell me how much protein is involved!
+6)Hmmm, not great.
+
+5>Why are you making this weird? Stay on script!
+7)Who's the lead actor in this commercial? Say it!
+1)I will gladly try Bob Yogurt™!
+4)I'm pretty on the fence about this whole thing.
+
+6>Okay, well did you know that yogurt is part of a balanced, healthy diet?
+8)What else you got?
+1)Hmmmm.... Sounds good!
+
+7>*sigh* You are, $name...
+2)BWA HA HA HA! YES!!! THAT IS CORRECT! I AM THE LEAD!!!! HA HA HA HA HA!
+6)We will play it my way! Now tell me why I should eat Bob Yogurt™!
+
+8>Yogurt is a natural probiotic food source!
+9)What else?
+1)Oh, why didn't you say so? I'll gladly try Bob Yogurt™!
+
+9>*sigh*.... It, uh, has vitamin B12.
+1)You have done a fine job, pitiful salesman! Now give me the yogurt!
+2)On second thought, I'm not interested. Goodbye.

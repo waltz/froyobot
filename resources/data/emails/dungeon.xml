@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>dungeon</filename>
+    <fromString>CEO</fromString>
+    <toString>$name</toString>
+    <subject>Dungeon</subject>
+    <content>
+    
+    Hi $name,
+
+    I really love that vampire dungeon. What a great look! It really works with the yogurt we are trying to sell.
+
+    Just kidding. The commercial sucked! Back to the drawing board!
+
+    Sorry you had to go through the dungeon, we've sent you something to hopefully make up for all that. Thanks.
+
+- Howard, CEO, Bob Yogurt
+    </content>
+    <read>0</read>
+    <torsoSprite>suit</torsoSprite>
+    <headSprite>ceo</headSprite>
+    <skinColor>0</skinColor>
+</Email>

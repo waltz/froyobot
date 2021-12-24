@@ -1,0 +1,9 @@
+I'm wavy, you're wavy
+Eat gravy on camera.
+am1
+unlock,gravy2
+unlock,gravy3
+item,cursed_handkerchief
+email,gravy1
+gravy,≥,1,eat gravy on camera
+gravyCommercial

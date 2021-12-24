@@ -1,0 +1,8 @@
+Nullify Hate
+Come on down to the studio and use the cosmic nullifier to nullify a giant effigy labeled "HATRED", then eat yogurt on camera.
+none
+unlock,nullify2
+item,flamethrower
+email,nullify2
+yogurt,≥,1,eat yogurt on camera
+nullify_hatred,≥,1,nullify the effigy of hatred

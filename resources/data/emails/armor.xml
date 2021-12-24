@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>armor</filename>
+    <fromString>CEO</fromString>
+    <toString>$name</toString>
+    <subject>Shiny Armor</subject>
+    <content>
+
+You know, I used to have a suit of armor like that. I'd take it out onto the back 9 at the Halifax Country Club and pay a couple caddys to wail on me with golf clubs. One time, they drove a cart over me like a ramp at top speed, catching enough air to fly into the hole 13 water hazard. But not a scratch on me.
+
+It got me thinking, I bet you could survive that deathtrap cave, the one in the mountains where you fall in and it kills you with arrows. I'd try it myself, but I'm more of an idea guy, you know?
+
+- Howard, CEO, Bob Yogurt
+    </content>
+    <read>0</read>
+    <torsoSprite>suit</torsoSprite>
+    <headSprite>ceo</headSprite>
+    <skinColor>0</skinColor>
+</Email>

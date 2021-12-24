@@ -1,0 +1,12 @@
+name=gasoline
+r=150
+g=150
+b=150
+a=50
+nutrition=10
+vegetable=1
+meat=0
+immoral=0
+offal=0
+flammable=true
+poison=true

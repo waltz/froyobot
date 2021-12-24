@@ -1,0 +1,25 @@
+0>Halt! Leave this place forthwith, Sirrah!
+This bridge is mine sole charge, to protect from crossings at all cost!
+1)Why are you guarding this bridge?
+2)what's a sirrah
+3)My sir, I require safe passage over yon river.
+
+1>Divine providence hath guided my hand to vouchsafe this passage.
+A humble calling suited to a noble heart.
+4)Sounds like a lame gig to me.
+5)I'm sure guarding a bridge is super fulfilling.
+
+2>[[Sir|M'lady]] doth make merrysome of this, my most noble charge!
+5)You're right. It's actually super noble. My bad.
+4)I'd be super "merrysome" if you'd let me cross the dang bridge!
+
+3>I forbid passage hencewith and cry out in the name of God, Kinge George, and St. Mary!
+END
+
+
+5>'Pon my word, the scorn of such a churl as yourself is a kingly crown, indeed!
+END
+
+6>I am but a simple servand of the Lord of this land.
+Ere I outlive my usefulness, let charge be mine to purge the land of knaves and brigands.
+END

@@ -1,0 +1,25 @@
+0>Incredible! The cosmic dagger of Hermes!
+It truly is glorious, is it not!?
+1)I had to stab a ghost to get it.
+1)I feel its cosmic energy coursing through my body.
+
+
+1>I think you should keep it, then.
+Now I feel I can tell you the truth about the Astral Gate.
+2)I'm not joining any cults today, thank you.
+2)Is that the new hot yoga club over in the Noodle Hut shopping center?
+
+2>The remains of the Astral Gate are up on the roof, just up this ladder.
+The Gate was shut many thousands of years ago and can only be opened with the power of the lost book, the Necronomicon.
+After centuries of searching, I have discovered the location of the Necronomicon!
+It is in the collection of your friend, the Mayor of Peabody! He keeps it under lock and key.
+And that is the truth about the Astral Gate.
+3)So, do you want me to go get this book from the mayor?
+4)Good talk. 
+
+3>Ha ha ha ha!
+You could never handle its great and terrible power!
+No, it's best if you just forget about this business. It is unwise to meddle in ancient sealed powers.
+4)Thanks for the story.
+
+4>END

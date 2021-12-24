@@ -1,0 +1,25 @@
+0>Hello, $eitherName! Are you ready to take the final voyage?
+1)I'm not ready!
+2)What's all this, then?
+4)Let's do it.
+
+1>Very well. Have your fun. You'll be back! You'll see!
+END
+
+2>This is the river Styx.
+In order to cross it, you must die.
+Are you ready?
+1)Not ready! Not ready!
+3)What about being undead?
+4)Sure, why not.
+
+3>Nope, won't work.
+No undead allowed.
+If you want to cross this river, you'll definitely die, no shortcuts.
+4)Okay then, let's do it.
+1)Some other time then, maybe.
+
+4>Alright, here we go!
+Relax, would you? What, you think you're the first person to ever die or something? Good grief!
+CHARONCALLBACK
+END

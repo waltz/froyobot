@@ -1,0 +1,40 @@
+#grossreact
+Gross.
+Oh, gross.
+
+#disturbreact
+Huh.
+Whoah.
+Wow.
+
+#chaosreact
+Oh.
+Mmm?
+Oh!
+
+#offensereact
+Hmmmm.
+
+#positivereact
+Mmm.
+
+#nuisance
+You're bugging me.
+Stop it.
+
+#newenemy
+That's it!
+
+#greet-friend
+Hi.
+
+#greet-enemy
+Go away.
+
+#greet-neutral
+Hello.
+
+#cough
+Ack!
+Arg!
+Gasp! *Choke*

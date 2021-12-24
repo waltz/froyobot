@@ -1,0 +1,20 @@
+<DOWN>
+MOE:Fire! Mayhem!
+0
+MOE:I love it!
+MOE:What do you think?
+<LEFT>
+1
+LARRY:Beautiful!&
+CURLY:Kind of terrifying.
+<RIGHT>
+1
+CURLY:It kind of scared me.
+1.5
+<DOWN>
+MOE: It scared me too!
+0.1
+LARRY: I was also scared.
+1
+MOE: Back to the drawing board!
+END

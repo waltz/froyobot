@@ -1,0 +1,7 @@
+It's the pits!
+Eat a yogurt in the vampire's dungeon. There's gotta be a way to get a camcorder down there. You do have a camcorder, right? Just make sure you don't carry it in your inventory. Smuggle it in somehow, there's gotta be a way.
+none
+item,chainsaw
+email,dungeon
+yogurt,≥,1,eat yogurt on camera
+location,shoot a scene in the dungeon,dungeon

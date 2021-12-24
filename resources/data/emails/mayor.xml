@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>mayor</filename>
+    <fromString>Producer Susan</fromString>
+    <toString>$name</toString>
+    <subject>re: the mayor</subject>
+    <content>
+    
+    Hi $name,
+
+    How did you get the mayor to agree to be on camera? He never shows his face except at formal occasions and ribbon-cutting ceremonies. Some believe the mayor to be a myth.
+
+    Needless to say, we are astounded by your willigness to go the extra mile for these yogurt commercials. Although we cannot use the commercial, please accept our gift as a token of our appreciation and desire to continue working with you.
+
+  -Susan
+  Producer, EB Productions, Inc.
+    </content>
+    <read>0</read>
+    <torsoSprite>skirt_red</torsoSprite>
+    <headSprite>girl</headSprite>
+    <skinColor>2</skinColor>
+</Email>

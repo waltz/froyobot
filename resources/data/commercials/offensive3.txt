@@ -1,0 +1,7 @@
+Offensive III
+They're making a yogurt commercial in the studio over there... I want you to go in there and mess it up!!! 
+am1
+item,sledgehammer
+email,sabo1
+offensive,≥,750,achieve offensive 750<sprite=2>
+sabotage

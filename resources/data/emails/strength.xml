@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>strength</filename>
+    <fromString>The Mayor</fromString>
+    <toString>$name</toString>
+    <subject>We need your help.</subject>
+    <content>
+    
+    Hi $name,
+
+    I won't beat about the bush. We need your help, $name.
+
+    Apparently some knight has set up on the bridge in the woods. He's been harassing people and claims to be "defending the bridge". He's gotta go.
+
+    You should be able to fight him with that strength potion you have. Drink some of the strength potion and then go rough him up a little, how about.
+
+    You could be like a superhero. "Strong [[Man|Woman]] That Kicks Knights' Asses". It would look good on a resume!
+
+    The Mayor
+    </content>
+    <read>0</read>
+    <torsoSprite>red_coat</torsoSprite>
+    <headSprite>mayor</headSprite>
+    <skinColor>0</skinColor>
+</Email>

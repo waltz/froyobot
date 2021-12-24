@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>dungeon_start</filename>
+    <fromString>CEO</fromString>
+    <toString>$name</toString>
+    <subject>Dungeon? Yes please!</subject>
+    <content>
+    
+    Hi $name,
+
+    I heard from my pickleball partner that there's a vampire dungeon out there. My mind immediately went to: dungeon, vampire, sexy, yogurt, yogurt commercial?
+
+    Could you shoot a commercial in the vampire dungeon? We are uniquely positioned to corner the vampire yogurt market this quarter.
+
+    I know, it's not the studio you're used to... You'll have to figure out how to smuggle the camcorder down there. Don't worry, I have full confidence in your abilities. Here at EB Productions we believe in empowering our employees to find bold solutions to hard problems.
+
+- Howard, CEO, Bob Yogurt
+    </content>
+    <read>0</read>
+    <torsoSprite>suit</torsoSprite>
+    <headSprite>ceo</headSprite>
+    <skinColor>0</skinColor>
+</Email>

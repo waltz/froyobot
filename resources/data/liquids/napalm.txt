@@ -1,0 +1,11 @@
+name=napalm
+r=255
+g=122
+b=1
+a=240
+nutrition=10
+vegetable=1
+meat=0
+immoral=0
+offal=0
+flammable=true

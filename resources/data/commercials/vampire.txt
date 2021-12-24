@@ -1,0 +1,7 @@
+Vampire Commercial
+A vampire must eat yogurt on camera. A vampire will never do this willingly... I'm sorry, I don't know how to do this one. You'll have to get creative.
+none
+item,hat_of_clearheadedness
+email,vampire
+yogurt,≥,1,eat yogurt on camera
+eatName,vampyr,vampire eats yogurt

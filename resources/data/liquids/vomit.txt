@@ -1,0 +1,11 @@
+name=vomit
+r=10
+g=180
+b=33
+a=235
+nutrition=10
+vegetable=0
+meat=0
+immoral=0
+offal=1
+flammable=false

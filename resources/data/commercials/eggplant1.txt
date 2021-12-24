@@ -1,0 +1,10 @@
+Healthy Eggplant Commercial
+Yogurt is not enough. Eat something healthy on camera, like an eggplant.
+eggplant1
+unlock,eggplant10
+unlock,mayor
+item,duplicator
+email,duplicator
+yogurt,≥,1,eat yogurt on camera
+eggplant,≥,1,eat eggplant on camera
+hallucination,magician

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>nullify2</filename>
+    <fromString>CEO</fromString>
+    <toString>$name</toString>
+    <subject>loved it</subject>
+    <content>
+    
+    Hi $name,
+
+Loved the commercial. "Nullify Hatred," great, just great stuff. Really makes you think, right? 
+
+I think we need a little more though. Can we do it again, but this time we can nullify an effigy of ignorance too. That would be a good move, from a PR standpoint, since ignorance is considered pretty bad these days.
+
+- Howard, CEO, Bob Yogurt
+
+PS - I accidentally sent my order from the Sharper Image catalog to your home address. Just keep it, I need to make some phone calls. 
+
+    </content>
+    <read>0</read>
+    <torsoSprite>suit</torsoSprite>
+    <headSprite>ceo</headSprite>
+    <skinColor>0</skinColor>
+</Email>

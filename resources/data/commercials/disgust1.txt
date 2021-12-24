@@ -1,0 +1,8 @@
+Disgusting I
+They're making a yogurt commercial in the studio over there... I want you to go in there and mess it up!!! 
+am1
+unlock,disgust2
+item,crossbow
+email,sabo1
+disgusting,≥,50,achieve disgusting 50<sprite=0>
+sabotage

@@ -1,0 +1,30 @@
+0>Heh! Step aside, daddy-o!
+The Scorpion Gang is here... here to stay!
+1)I don't want any trouble.
+2)The scorpion gang?
+5)Perfect timing. I've been looking to rough up some goons.
+
+1>Whoah! Not so fast!
+You seem like a cool cat, so I'm gonna let it slide... For now.
+4)Where did you guys come from?
+3)Goodbye
+
+2>That's right, the Scorpion Gang!
+This new turf of ours is looking mighty fine! Mighty fine!
+4)Where did you guys come from?
+3)Goodbye
+
+3>Be cool, man. 
+END
+
+4>The open road, man, the asphalt ribbon of adventure!
+We drive hard, and fast, through the night, burning gasoline and cigarettes!
+We will stop at nothing until we understand the abstract notion of America in its fullness!
+5)I've got all the adventure you can handle right here in my two fists.
+3)I've always wanted to do something like that, but I am cowardly.
+
+5>Now I know that only a screwball would think about messin' with the Scorpion gang.
+But if you think you can handle a scrap, take a swing at my boys here!
+You wouldn't be the first fool we've had to dump off a bridge!
+3)We'll see.
+2)Did you say the Scorpion gang?

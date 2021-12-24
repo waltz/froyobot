@@ -1,0 +1,7 @@
+Combat III
+You are being haunted by the spirit of William Ashmole! Exorcise this violent ghost and make a yogurt commercial!
+none
+unlock,combat4
+item,box_of_fireworks
+yogurt,≥,1,eat yogurt on camera
+killScorpion,1,kill the ghost

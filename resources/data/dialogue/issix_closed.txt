@@ -1,0 +1,9 @@
+0>Well, well. What have we here?
+1)What's up with this door?
+
+1>Oh, this door? Yeah, it closed $$DAYS$$ ago.
+It won't be open any more, now. You should move along.
+2)Can I still beat the game?
+
+2>Yeah, you don't need to go back here to beat the game.
+END

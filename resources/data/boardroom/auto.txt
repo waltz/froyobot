@@ -1,0 +1,15 @@
+<LEFT>
+LARRY:I want to be in the commercial!
+0.1
+<RIGHT>
+CURLY:No, I want to be in the commercial!
+0.1
+<LEFT>
+LARRY:No, I want to be in the commercial!
+0.1
+<DOWN>
+MOE:Gentlemen, gentlemen! Control yourselves!
+1.5
+MOE:We can ALL be in the commercial!
+1
+END

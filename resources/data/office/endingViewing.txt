@@ -1,0 +1,12 @@
+5
+SATAN:I will gladly try Bob Yogurt!
+1.5
+MOE:This guy is so cool!
+0.5
+LARRY:What a commercial!
+0.5
+CURLY:Fellas, this is it!
+1
+CURLY:We finally did it!
+2
+END

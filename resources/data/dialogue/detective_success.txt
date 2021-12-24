@@ -1,0 +1,22 @@
+0>Yikes! You scared me!
+1)Tell me more.
+
+1>Well, what is there to tell? I worked my way up from the bottom.
+This, all this, I built myself!
+Hard work and determination, my [[boy|dear girl]]! True grit.
+That's what you need to succeed in this life!
+Grab onto what you can and claw your way to the top! Look for any opportunity no matter how sneaky!
+Focus your will on your singular purpose and to hell with everything else!
+2)You had no outside help at all?
+
+2>Well of course, "no man is an island," as Horatio Alger wrote! And it is true!
+But nothing can replace hard work and a can-do attitude!
+In truth, my dear [[boy|girl]], I made a deal with a very powerful benefactor.
+Power talks, my [[boy|girl]]. 
+3)Who is this "benefactor"?
+
+3>I've said too much already... Real power doesn't like to be talked about much.
+The real powers in this world prefer to stay behind the scenes, as it were.
+Favors for favors my [[boy|girl]], favors for favors.
+And now if you'll excuse me, I must get back to what I was doing...
+END

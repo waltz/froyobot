@@ -1,0 +1,53 @@
+% provided by context: noun1, quality1, quality11, quality12, quality13
+
+#review
+{main-1}
+
+#bad
+The {noun1} seemed very {adjective1} to me.
+I don't like all the {adjective1} {noun1}!
+The {noun1} jumped out at me as especially {adjective1}.
+I don't like how {adjective1} this commercial is with all the {noun1}.
+The depiction of {noun1} was just {adjective1}.
+The commercial does not need all the {noun1}, it's {adjective1}.
+Can we talk about the {noun1}?<0.5| It was {adjective1}>.
+
+#good
+I like the {adjective1} {noun1}!
+The {noun1} seemed very {adjective1} to me.
+
+#quality-chaos
+chaos
+
+#quality-disturbing
+disturbing quality
+eerie quality
+
+#quality-disgusting
+disgusting quality
+
+#quality-offensive
+offensiveness
+
+#quality-positive
+positivity
+
+
+#11-quality
+{qualities11}
+
+#12-quality
+{qualities11} and {qualities12}
+
+#13-quality
+{qualities11}, {qualities12}, and {qualities13}
+
+
+#21-quality
+{qualities21}
+
+#22-quality
+{qualities21} and {qualities22}
+
+#23-quality
+{qualities21}, {qualities22}, and {qualities23}

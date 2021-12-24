@@ -1,0 +1,27 @@
+MOE:AAAH! OUR NUMBERS ARE TANKING!!
+0.5
+LARRY:AAAH! BOB YOGURT IS DEAD!!
+0.92
+CURLY:WE'RE FINISHED! AAAHH!!!
+3
+MOE:AAAUUUUGHH!!
+0.75
+LARRY:BOB YOGURT IS DONE FOR!!
+2
+CURLY:AAAARG!!! WE'RE DOOMED! DOOMED!
+2
+<STOP PANIC>&
+CEO:Shut up!!! You morons!!!!
+0.5
+<LEFT>
+CEO:We have our best yogurt commercial actor working on the problem!
+0.5
+<RIGHT>
+CEO:[[He|She]] would never let us down! 
+CEO:[[He|She]] could never!!!
+2
+<UP>
+2
+CEO:But if all else fails, you know who to call...
+2
+END

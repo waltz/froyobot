@@ -1,0 +1,49 @@
+% provided by context: noun1, quality1, quality11, quality12, quality13
+
+#review
+{main-1}
+
+#bad
+The {noun1} is notable for its {quality1}
+The message of the commercial is<0.5| somewhat> muddled by the {quality1} of the {noun1}
+By far, audiences are puzzled by the {quality1} of the {noun1}
+The scenes of {noun1} were a particular sticking point with audiences
+The repeated imagery of {noun1} raised some questions
+
+#good
+Audiences are pleasantly surprised by the {quality1} of the {noun1}
+
+#quality-chaos
+chaos
+
+#quality-disturbing
+disturbing quality
+
+#quality-disgusting
+disgusting quality
+
+#quality-offensive
+offensiveness
+
+#quality-positive
+positivity
+
+
+#11-quality
+{qualities11}
+
+#12-quality
+{qualities11} and {qualities12}
+
+#13-quality
+{qualities11}, {qualities12}, and {qualities13}
+
+
+#21-quality
+{qualities21}
+
+#22-quality
+{qualities21} and {qualities22}
+
+#23-quality
+{qualities21}, {qualities22}, and {qualities23}

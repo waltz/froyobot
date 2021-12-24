@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>fireman</filename>
+    <fromString>Producer Susan</fromString>
+    <toString>$name</toString>
+    <subject>FD in YC</subject>
+    <content>
+    
+  Hi $name,
+
+    I'm confused, why did the fireman have three heads? Why did the fireman have golden scales and bat wings, and why was the commercial set in Japan, with all that violence?
+
+    Oh, I'm sorry. Reviewing my notes now, it seems I was watching a Godzilla movie.
+
+    Unfortunately, the footage you sent us has been lost, but we appreciate your effort and hard work.
+
+    -Susan
+  Producer, EB Productions, Inc.
+
+  PS: We have mailed you a special hat.
+    </content>
+    <read>0</read>
+    <torsoSprite>skirt_red</torsoSprite>
+    <headSprite>girl</headSprite>
+    <skinColor>2</skinColor>
+</Email>

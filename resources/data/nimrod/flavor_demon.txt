@@ -1,0 +1,48 @@
+#grossreact
+Ha ha<0.5| ha><0.5| ha><0.5| ha><0.5| ha><0.5| ha><0.5| ha>!
+Wow!
+
+#disturbreact
+Woo!
+Oh!
+
+#chaosreact
+Ha ha<0.5| ha><0.5| ha><0.5| ha><0.5| ha><0.5| ha><0.5| ha>!
+Whoop!
+
+#offensereact
+Nice!
+Cool!
+
+#positivereact
+Boo!
+Stop!
+
+#nuisance
+Foolish imp!
+Coward!
+You swine!
+
+#newenemy
+Come here<0.5|, you nitwit>!
+Oh boy!
+
+#greet-friend
+Good day!
+Hello!
+
+#greet-enemy
+You again!
+
+#greet-neutral
+*cough*
+Ahem.
+*grunt*
+*mumble*
+*grumble*
+*spit*
+
+#cough
+IA!
+FTHAGHN!
+TEKELI-LI!

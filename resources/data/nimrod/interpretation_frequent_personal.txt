@@ -1,0 +1,18 @@
+% provided by context: adjective1, adjective2, main
+
+#review
+{main}
+
+#main-1
+It seemed<0.5| {kinda}> {adjective1}<0.5|, to me>.
+I thought it was<0.5| {kinda}> {adjective1}.
+It was {adjective1}!
+
+#main-2
+It seemed<0.5| {kinda}> {adjective1} and {adjective2}<0.5|, to me>.
+It was {adjective1} and {adjective2}!
+
+#kinda
+kinda
+pretty
+a little

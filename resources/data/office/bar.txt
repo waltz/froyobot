@@ -1,0 +1,41 @@
+MOE:The end…. this is the end…
+1
+<CURLYPOUND>
+CURLY:We're screwed.
+1
+LARRY:We're dead.
+1
+<LARRYPOUND>
+1
+<CURLYPOUND>
+1
+CURLY:I'm finished.
+0.2
+<CURLYPOUND>
+0.4
+LARRY:Dead in the water.&
+<CURLYPOUND>
+0.4
+<CURLYPOUND>
+0.4
+<CURLYPOUND>
+0.4
+CURLY:I've gotta get out of the yogurt business.
+0.5
+<BART>
+2
+LARRY:Even the bartender hates us.
+0.5
+CURLY:We are terrible. 
+2
+MOE:I'm gonna do it. I'm gonna make the call.
+0.25
+<PHONECALL>
+3
+MOE:Hello, Satan? Let's make a deal...
+2
+MOE:Yes, I think we can put you in a commercial...
+2
+LARRY:That poor yogurt commercial actor!
+3
+END

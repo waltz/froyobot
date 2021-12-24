@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>golf_club</filename>
+    <fromString>Producer Susan</fromString>
+    <toString>$name</toString>
+    <subject>good work out there</subject>
+    <content>
+    
+  Hi $name,
+
+  Great commercial! Loved the hustle, [[little man|little lady]]! Oh yeah!
+  
+  Unfortunately we can't use this commercial. It really sucked, execs didn't like it.
+
+  Look, we just want to make a few little changes, then the commercial will be good to go! It's really almost there. Go to the studio to see our new ideas, I think you'll love them!
+  
+  We like to give our top talent something to show our appreciation. Check outside your front door for the package.
+
+    -Susan
+  Producer, EB Productions, Inc.
+    </content>
+    <read>0</read>
+    <torsoSprite>skirt_red</torsoSprite>
+    <headSprite>girl</headSprite>
+    <skinColor>2</skinColor>
+</Email>

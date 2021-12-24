@@ -1,0 +1,21 @@
+% provided by context: adjective1, adjective2, main
+
+#review
+{main}
+
+#main-1
+The events of this commercial are frequently {adjective1}.
+The overall effect of the commercial is {adjective1}.
+This commercial has been described as {adjective1}.
+{reviewer} call this commercial "{adjective1}."
+
+#main-2
+The events of this commercial are frequently {adjective1} and {adjective2}.
+The events of this {adjective1} commercial are frequently {adjective2}.
+{reviewer} are calling this commercial "{adjective1}" and "{adjective2}".
+
+#reviewer
+Cast and crew
+Critics
+Reviewers
+The commercial review board

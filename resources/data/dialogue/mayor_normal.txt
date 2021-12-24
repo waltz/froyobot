@@ -1,0 +1,81 @@
+0>Why, hello $name!
+MAYORSABOTAGE
+Welcome to my home!
+How do you find our quiet town?
+3)Thank you, what a nice house!
+1)I am excited to begin my new life in your town.
+10)Tell me about this place.
+
+1>Your sentiment is appreciated.
+You seem like a trustworthy sort. Could I ask for your help in a little municipal matter?
+4)Tell me more.
+5)I don't get involved in municipal affairs, as a rule.
+
+2>END
+
+3>Oh, this house has been in my family for generations.
+That is why the attic is completely infested with ghosts!
+If you could find a way to remove those ghosts, I would reward you handsomely.
+7)How do you expect me to remove ghosts from your attic?
+8)Do you mean these are the ghosts of your ancestors?
+2)I'll see what I can do. Thank you for your time.
+
+4>It concerns your livelihood, I'm afraid.
+Agents of the lunar anti-mayor have come to Peabody, to sabotage our great yogurt commercial industry.
+Be on the lookout for the anti-mayor's agents!
+9)Anti-mayor?
+13)Why would somebody want to sabotage the yogurt commercials?
+10)Why would they come to Peabody?
+
+5>I understand. A legal injunction, eh? Mum's the word!
+END
+
+6>You'll need some ancient and powerful weapons, I think.
+The antimayor probably knows where to find some.
+2)Well, thanks for the tip. I'll see what I can do.
+
+7>Ghosts are ethereal, so they are immune to regular forms of damage. 
+You probably need something more magical, I suppose.
+6)I don't know any magic.
+2)Try some magic. Huh. Well thanks for the advice, I guess.
+
+8>That's right, my lazy freeloading ancestors died and they don't even have the courtesy to move out!
+This house isn't big enough for all of us!!
+Here on the corporeal plane, we care about real estate prices!!!
+2)I'll see what I can do.
+7)How can I get rid of the ghosts?
+
+9>For every mayor, there is an evil anti-mayor that lives on the moon.
+For centuries we lived in uneasy peace, but now that peace is threatened.
+The anti-mayor's agents could be anywhere!
+11)Can he be stopped?
+13)Why is he after the yogurt commercials?
+2)I don't think I'm getting much out of this conversation. Thanks.
+
+10>Peabody was founded as a yogurt commercial boom town in 1856.
+My great-great-great-great-great grandfather, mayor Alphonsus Increase Balthazar, founded Peabody back then.
+12)Tell me more about mayor Alphonsus Increase Balthazar.
+3)So this house is pretty old huh?
+14)It seems Peabody has thrived on the entrepreneurial spirit of yogurt.
+
+11>The anti-mayor is a force of primeval chaos. He cannot be reasoned with or understood. 
+It is my duty as mayor to bring order to the world.
+10)Tell me about the yogurt, then.
+13)Is there something in particular he is after?
+2)Thank you for your time.
+
+12>Mayor Alphonsus Increase Balthazar, son of Nehemiah Deliverance Balthazar Jr., founded Peabody in 1856.
+Together with his brother, Jedediah Makepeace Balthazar, he developed a new recipe for yogurt.
+The yogurt was made from turpentine and swamp root.
+3)Did he build this house?
+14)Sounds lovely.
+
+13>To be honest, $name, he fears your potential as a yogurt commercial actor.
+In time, you will create the Ultimate Yogurt Commercial of All Time.
+The antimayor fears the forces that you might unleash...
+11)Can we stop him?
+10)Tell me about this town.
+
+14>Ah, but not all is well in Peabody today.
+We feel the growing threat of the antimayor... Any day, he could strike.
+9)Anti-mayor?

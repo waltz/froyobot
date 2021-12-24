@@ -1,0 +1,22 @@
+0>YOU ∎∎∎∎!!!
+1)Whoah, 
+1)Hey,
+
+1>DO YOU KNOW WHAT THAT DAGGER IS?
+TEXTSIZE:LARGE
+IT'S SPECIAL!!!
+TEXTSIZE:NORMAL
+YOU'RE BEING A REAL ∎∎∎∎ RIGHT NOW!
+2)You want the dagger? Come and get it!
+3)Should I put the dagger back?
+2)Who are you?
+
+2>IM GONNA CHOP YOU UP REAL NICE CHOP-CHOP HAHAHA!
+HERE COMES THE NIGHT TRAIN!!!
+END
+
+3>IT'S TOO LATE! STOP, JUST STOP IT!
+OH MY GOD, I CAN'T EVEN HANDLE THIS RIGHT NOW.
+2)Are you alright?
+2)Let me take the dagger and nobody gets hurt.
+2)Look, maybe we can work something out.

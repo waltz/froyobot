@@ -1,0 +1,50 @@
+0>Who has come to visit us?
+Oh, it's you, $cosmicName. 
+1)I just stopped in to say hi.
+2)I have some questions for you.
+9)Do your buddies talk?
+
+1>Well met, friend.
+END
+
+2>I am a simple man.
+3)Do you know how to kill a vampire?
+5)Do you know how to cross the volcano?
+4)Do you know how to survive on the moon?
+
+3>Vampires are ethereal, like ghosts. Normal weapons cannot hurt them.
+You need a cosmic weapon.
+6)Where can I get a cosmic weapon?
+1)Thank you, no more questions.
+2)I have more questions.
+
+4>You can't breathe on the moon.
+Therefore, the only creatures that can survive on the moon are those that do not need to breathe.
+7)What sort of creature doesn't need to breathe?
+1)Thank you, no more questions.
+2)I have more questions.
+
+5>Volcanos are pretty hot, I bet. You'd need to be immune to fire.
+Do you know anyone like that?
+1)I have to think about it. Thank you.
+2)Not sure. I have more questions.
+
+6>What do I look like, an arms dealer?
+Anything made of silver is a safe bet. Rare and powerful weapons, that sort of thing.
+1)Thank you, no more questions.
+2)I have more questions.
+
+7>I don't know. Nothing natural, that's for sure. The undead, maybe.
+1)Thank you, no more questions.
+2)I have more questions.
+8)How do I become undead?
+
+8>It is said that eating a vampire's heart is a sure way to take on the curse of the undead.
+Or maybe the potion seller could tell you how to make a potion of undead.
+What a terrible idea! Don't do it!
+1)Thank you, no more questions.
+2)I have more questions.
+
+9>They have taken a vow of silence.
+1)I just stopped in to say hi.
+2)I have some questions for you.

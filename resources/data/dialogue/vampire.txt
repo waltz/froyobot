@@ -1,0 +1,48 @@
+0>Who dares intrude on the sanctum of Sanguinus Rex Maximus?!?
+Marshal your words carefully, mortal!
+1)Sanguinus Rex Maximus? I'm a big fan!
+2)Sanguinus. I have come to do battle.
+5)Wait! I just wanted to ask you something!
+
+1>You face a simple choice:
+We can do battle, and you will surely die;
+Or I will cast you into my oubliette to rot a coward's death.
+2)A battle to the death it is, then.
+3)That cowardly dungeon thing actually sounds better.
+4)What's an oubliette?
+
+2>VAMPIREATTACK
+You simple fool! You think you can break my defensive enchantment? I am as a ghost!
+Only the ancient race of moon warriors was ever so bold...
+Prepare to meet your pitiful fate, mortal!
+END
+
+3>VAMPIRETRAP
+Pleasant stay! Mwa ha ha ha ha!
+END
+
+4>VAMPIRETRAP
+I guess you're about to find out! Mwa ha ha ha ha!
+END
+
+5>You tread on thin ice. Speak!
+6)How did you become a vampire?
+7)Are there others out there like you?
+8)Is this house on the Peabody register of historic places?
+
+6>It was three thousand years ago.... I went to my vampire mentor, Lord Agenor Stygius Grimdark!
+I called on him for the feast of Saturnalia!
+I killed him, by God's grace, and ate his heart!
+And now I shall eat yours!
+VAMPIREATTACK
+END
+
+7>You tread in my presence to ask such a foolish question?
+There are other undead, but none as powerful as me!
+Steel yourself, fool, for my attack!
+VAMPIREATTACK
+END
+
+8>Yes!
+Now go! And tell the Mayor I have not made any alterations to the property!
+END

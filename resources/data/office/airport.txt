@@ -1,0 +1,24 @@
+MOE:There you are sir!
+1
+MOE:Finance is on the phone, they're saying something about the pension fund??
+2.5
+<CEOMUGS>
+2.5
+<LEFT>
+CEO:Shut up! Go away!!!
+0.5
+MOE:The company is failing, boss!
+CURLY:Our commercials are terrible!
+1
+<JETIN>
+1
+CEO:Yes! They are awful.
+3
+CEO:You have no choice now!
+0.1
+CEO:You have to let "Him" star in a yogurt commercial now!
+0.1
+CEO:Just speed dial #666 on my office phone...
+2
+CEO:Bon voyage!
+END

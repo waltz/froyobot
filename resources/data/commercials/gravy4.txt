@@ -1,0 +1,8 @@
+Handkerchief Surprise
+Duplicate the cursed handkerchief 20 times, and eat 10 gravy.
+am1
+unlock,venus
+item,glass
+gravy,≥,10,eat 10 gravy on camera
+gravyCommercial
+handkerchief,≥,20,Duplicate 20 cursed handkerchiefs

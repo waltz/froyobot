@@ -1,0 +1,8 @@
+Offensive II
+They're making a yogurt commercial in the studio over there... I want you to go in there and mess it up!!! 
+am1
+unlock,offensive3
+item,harmless_flower
+email,sabo1
+offensive,≥,250,achieve offensive 250<sprite=2>
+sabotage

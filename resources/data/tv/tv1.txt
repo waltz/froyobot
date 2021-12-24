@@ -1,0 +1,23 @@
+Tv1
+<MUSIC:TVR2>
+<0>
+[MUSIC PLAYS]
+2
+<1>
+***
+0.5
+<1,2>
+WELCOME TO THE PIE HOUR
+1.5
+<1>
+***
+0.5
+<1,2>
+IT IS THE TIME FOR PIE
+1
+<1>
+[MUSIC PLAYS]
+2
+<3>
+3
+<END>

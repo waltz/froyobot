@@ -1,0 +1,9 @@
+I Hurt, You Hurt
+Welcome to the studio! For this commercial, you will just have to eat yogurt on camera.
+eat1
+unlock,eggplant1
+unlock,eat2
+unlock,fireman
+item,golf_club
+email,golf_club
+yogurt,≥,1,eat yogurt on camera

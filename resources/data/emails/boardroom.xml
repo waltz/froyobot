@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>boardroom</filename>
+    <fromString>ebay</fromString>
+    <toString>$name</toString>
+    <subject>Shipping Confirmation</subject>
+    <content>
+  
+  Your order #16052, is now being processed.
+
+    [Order #16052] (February 6, 2020)
+    Product	Quantity	
+    Soak Squire 5200™	1
+
+
+    Delivery address
+    $name
+    12 Mountain Valley 
+    </content>
+    <read>0</read>
+
+    <torsoSprite>pizzaboy</torsoSprite>
+    <headSprite>anchorite</headSprite>
+    <skinColor>2</skinColor>
+</Email>

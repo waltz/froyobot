@@ -1,0 +1,6 @@
+Combat IV
+Tharr the invincible challenges you to one-on-one combat to the death!!! You have no choice but to kill Tharr the invincible!!! And make a yogurt commercial!
+none
+item,partyhat
+yogurt,≥,1,eat yogurt on camera
+killScorpion,1,defeat Tharr the invincible

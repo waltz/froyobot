@@ -1,0 +1,12 @@
+name=red paint
+r=218
+g=30
+b=39
+a=255
+nutrition=1
+vegetable=0
+meat=0
+immoral=0
+offal=1
+flammable=true
+poison=true

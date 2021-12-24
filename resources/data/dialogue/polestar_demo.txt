@@ -1,0 +1,10 @@
+0>$eitherName! Can you hear me?
+It is I, Polestar Superswan! 
+You have reached the end of the demo...
+I'm sorry $eitherName but you must return to your apartment.
+I can't let you see any more of the game! Oh my!
+1)Wait!
+1)Shoot me a text!
+
+1>Sleep tight, $eitherName !
+END

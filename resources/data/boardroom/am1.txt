@@ -1,0 +1,9 @@
+<RIGHT>
+AM:Ha ha ha ha!
+<DOWN>
+0.5
+AM:Yes!!!
+1.5
+AM:Ha ha ha ha ha!!!
+1
+END

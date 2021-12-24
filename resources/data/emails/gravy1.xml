@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>gravy1</filename>
+    <fromString>Agamemnon</fromString>
+    <toString>$name</toString>
+    <subject>Welcome to the gravy train!</subject>
+    <content>
+    
+  Hi $name,
+  
+    Salutations from your brothers and sisters on the moon.
+
+    The antimayor is pleased with your gravy-shilling. He sees fit to mail you a reward. We hear that it is, "quite popular with the Earth crowd."
+
+    Come back to the moon any time,
+    Agamemnon
+    
+    Moon pride!
+    </content>
+    <read>0</read>
+    <torsoSprite>anti_mayor_suit</torsoSprite>
+    <headSprite>anti_mayor</headSprite>
+    <skinColor>3</skinColor>
+</Email>

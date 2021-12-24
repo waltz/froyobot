@@ -1,0 +1,9 @@
+Eldritch Horrors of Gravy
+Read the necronomicon 4 times on camera!!! And then eat gravy 10 times! And the ritual will be complete, hee hee hee!!!
+am1
+unlock,gravy4
+unlock,venus
+item,gremlin
+gravy,≥,10,eat 10 gravy on camera
+necronomicon,≥,4,Read the necronomicon 4 times
+gravyCommercial

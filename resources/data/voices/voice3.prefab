@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7307550022495547199
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3986849824059544784}
+  - component: {fileID: 2122285525936603866}
+  m_Layer: 0
+  m_Name: voice3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3986849824059544784
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7307550022495547199}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.5311027, y: -1.4791173, z: -2.779252}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2122285525936603866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7307550022495547199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb4b132f9ed97416e9f460c186d51c94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speechSet: voice3
+  sounds:
+  - {fileID: 8300000, guid: 902a7592822e04f409fa1dafccaa15f9, type: 3}
+  - {fileID: 8300000, guid: 013f4ebdb530b4f7abdb61d829d979f5, type: 3}
+  - {fileID: 8300000, guid: 2ee9a0a528573480991d85983376809f, type: 3}
+  - {fileID: 8300000, guid: b3c0235532c0a415aabb23607fde4d69, type: 3}
+  - {fileID: 8300000, guid: 8dd8ded22e27542509236e4c5bf7adfe, type: 3}
+  - {fileID: 8300000, guid: 0961a308c621146428f5dac6e0d6125b, type: 3}
+  - {fileID: 8300000, guid: eea6359bb20b1410ea6790af7dd5ff11, type: 3}
+  - {fileID: 8300000, guid: abbac9483c11f4b7295590f02ba9e8dd, type: 3}
+  randomPitchLow:
+    low: 0.75
+    high: 0.85
+  randomPitchHigh:
+    low: 0.85
+    high: 0.95
+  randomSpacingLow:
+    low: 0.18
+    high: 0.21
+  randomSpacingHigh:
+    low: 0.24
+    high: 0.28

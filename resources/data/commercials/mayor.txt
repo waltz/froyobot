@@ -1,0 +1,10 @@
+Mayor Commercial
+The mayor must eat yogurt on camera. He doesn't have time to come down to the studio so you'll need to figure out a way to bring the camera over to his house. A strength powerup should help.
+auto
+unlock,moon
+unlock,boardroom
+unlock,dungeon
+item,camcorder
+email,mayor
+yogurt,≥,1,eat yogurt on camera
+eatName,Mayor,mayor eats yogurt

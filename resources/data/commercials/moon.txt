@@ -1,0 +1,8 @@
+Moon Commercial
+Eat a yogurt on the moon. "How do you get to the moon? If you climb up to a high enough place, and shoot yourself out of a big enough cannon, eventually you will get to the moon." --Isaac Newton
+none
+item,pie
+email,moon
+yogurt,≥,1,eat yogurt on camera
+location,eat yogurt on the moon,moon1,moon_cave,moon_pool,moon_town,anti_mayors_house,tower,gravy_studio
+hallucination,magician2

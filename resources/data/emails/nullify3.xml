@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>nullify2</filename>
+    <fromString>CEO</fromString>
+    <toString>$name</toString>
+    <subject>Let's rethink this.</subject>
+    <content>
+    
+    Hi $name,
+
+Look, I'll be frank. The whole effigy thing, not working. Let's table the PR thing for now and circle back on it later, okay?
+
+Keep up the good work, I've sent you a bonus.
+
+- Howard, CEO, Bob Yogurt
+    </content>
+    <read>0</read>
+    <torsoSprite>suit</torsoSprite>
+    <headSprite>ceo</headSprite>
+    <skinColor>0</skinColor>
+</Email>

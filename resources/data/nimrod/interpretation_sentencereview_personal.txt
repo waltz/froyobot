@@ -1,0 +1,71 @@
+% provided by context: primary1, primary2, adjective1, adjective2, intro
+
+#review
+{intro}
+
+#bad_low
+<0.5|{bad-low-intro} >{bad-low-detail}
+{bad-low-intro}<0.5| {bad-low-detail}>
+
+#bad_high
+<0.5|{bad-high-intro} >{bad-high-detail}
+{bad-high-intro}<0.5| {bad-high-detail}>
+
+#good_low
+<0.5|{good-low-intro} >{good-low-detail}
+{good-low-intro}<0.5| {good-low-detail}>
+
+#good_high
+<0.5|{good-high-intro} >{good-high-detail}
+{good-high-intro}<0.5| {good-high-detail}>
+
+
+
+#good-high-intro
+Awesome!
+I liked it!
+It made me want yogurt!
+
+#good-low-intro
+Not bad.
+
+#bad-low-intro
+I didn't like it.
+It bothered me.
+
+#bad-high-intro
+It was awful!
+Why would you show me such a commercial?
+I feel attacked!
+I didn't agree to this!
+This is wildly inappropriate!
+I want to speak to a manager!
+
+#good-high-detail
+The {primary1} was {intensifier} {adjective1}.
+
+#good-low-detail
+The {primary1} was {intensifier} {adjective1}.
+
+#bad-low-detail
+All in all, I didn't care for the {primary1}, I thought it was {adjective1}.
+I thought the {primary1} was {adjective1}.
+
+#bad-high-detail
+Why did it have to have the {adjective1} {primary1}?
+All the {adjective1} {primary1}!
+The {primary1}!<0.5| The {primary2}!> {what}
+
+#what
+What on Earth is going on with this commercial?!
+How did this get made?
+Why did you involve me in this?
+I never agreed to this!
+
+#intensifier
+particularly
+very
+somewhat
+quite
+notably
+shockingly

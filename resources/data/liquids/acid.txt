@@ -1,0 +1,12 @@
+name=acid
+r=255
+g=205
+b=0
+a=150
+nutrition=10
+vegetable=0
+meat=0
+immoral=0
+offal=1
+flammable=false
+acid=true

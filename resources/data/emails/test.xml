@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <filename>test</filename>
+  <fromString>stick stickly</fromString>
+  <toString>jojo</toString>
+  <subject>test email</subject>
+  <content>yep</content>
+  <read>0</read>
+</Email>

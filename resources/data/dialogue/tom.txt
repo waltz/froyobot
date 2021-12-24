@@ -1,0 +1,75 @@
+0>Hello, $name!
+It's me, $name!
+1)Aren't you that new yogurt commercial actor?
+2)Have you noticed anything... strange... around here?
+3)I'm sorry, I had you confused with someone else.
+
+1>That's right. Are you a fan?
+Did you come here to get an autograph?
+4)Yes! I'd love to have your autograph!
+5)I already have your autograph.
+3)I am not a fan. I do not want your autograph.
+
+2>I wasn't going to say anything, but yes.
+You know what I'm going to say, right?
+6)The aliens?
+7)The vampires?
+8)Tell me. It's safe with me.
+
+3>END
+
+4>Hmmmm... I guess I left all my pens in my other pants.
+Just forge one when you get home, or something.
+Was there anything else?
+2)Have you noticed anything... strange... around here?
+3)That's all for now.
+
+5>Oh, glad to hear it!
+Actually, I think my agent is calling.
+Yes, I think I feel my phone buzzing.
+Do you hear it buzzing in my pocket? No?
+Let's do lunch sometime, okay?
+END
+
+6>Aliens, huh? Yeah, I know about them.
+I know how their shrill cries rattle my window at night, the shreiking calls announcing the name of their dark lord, Satan.
+Nightly, they threaten to drag me down to commune with their fell master.
+And nightly I brusie and bloody their frail bodies, like rag dolls flying through the air, yet they persist!!!
+9)I dont think that's how aliens work.
+10)Aliens in cahoots with Satan?
+
+7>So I'm not the only one to notice them?
+I just moved here a week ago, and right away I can tell this town is thick with vampires.
+8)I just meant the one vampire that lives over to the left of the map.
+11)Do you have a plan to stop the vampires?
+12)I wish I could help, but I'm not much of a fighter.
+
+8>Hmmmm....
+You know, I just remembered about a reading I need to sit in on.
+But keep it real, okay? Good luck with your internet retail craft shop!
+END
+
+9>What would you know? Do you commune with the hyperborean cryptoterrestrials?
+Do you feel their icy pall, their ghostly fingers, like tiny vienna sausages, carrying you, prone, through the night?
+No, it is a lonely path I tread. I do it alone. I do it for them. For you.
+For you, I punch aliens at night.
+Now leave me, I've said too much.
+END
+
+10>Yes, Satan himself, the deceiver, fosters their interest in human anatomy, and night time pugilism.
+For who else could deliver the force of will to knock and crash upon my window at night?
+In fact, I think I hear their distant keening now!
+END
+
+11>How can I, without the right weapons?
+Only silver, or magic, can harm a vampire.
+I used to have a silver garden rake that worked pretty good.
+3)Okay thanks!
+
+12>You have to be a fighter, to take on a vampire. That's true.
+Let me let you in on a little secret about this world:
+You must be a fighter. You have to fight.
+Anything worth anything must be fought for. When you see the chance, take it!
+And the most worthwhile thing of all, is fighting vampires.
+I must go now.
+END

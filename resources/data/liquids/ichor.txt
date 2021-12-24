@@ -1,0 +1,11 @@
+name=ichor
+r=197
+g=225
+b=164
+a=200
+nutrition=20
+vegetable=0
+meat=1
+immoral=0
+offal=0
+flammable=false

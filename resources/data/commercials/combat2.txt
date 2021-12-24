@@ -1,0 +1,7 @@
+Combat II
+Bruiser has your number... Go ahead, try to make a yogurt commercial!!
+none
+unlock,combat3
+item,acid_flask
+yogurt,≥,1,eat yogurt on camera
+killScorpion,2,defeat the Bruiser twins

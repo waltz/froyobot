@@ -1,0 +1,6 @@
+Ultimate Yogurt Commercial of All Time
+Feed yogurt to Satan. He has agreed to do a commercial for Bob Yogurt. He can be found in the deepest depths of hell.
+ending
+item,pimp_hat
+yogurt,≥,1,eat yogurt on camera
+eatName,Satan,satan eats yogurt

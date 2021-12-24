@@ -1,0 +1,10 @@
+0>$eitherName! Can you hear me?
+It is I, Polestar Superswan! 
+Something is blocking my power.... 
+You won't be able to teleport to this location! It is sealed!
+You are in great danger... Be careful, $name!
+1)Wait!
+1)Shoot me a text!
+
+1>I can't keep the 
+END

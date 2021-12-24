@@ -1,0 +1,9 @@
+#main
+{adjective} noise
+
+#adjective
+annoying
+harsh
+irritating
+distracting
+loud

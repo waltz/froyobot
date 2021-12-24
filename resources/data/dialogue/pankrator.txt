@@ -1,0 +1,57 @@
+0>Oh hello, much welcome to you, stranger! It is being a glorious day!
+1)Who are you?
+2)What is this place?
+5)Tell me about the cannon.
+
+1>Yours truly is the Pankrator, the guardian of the sacred cannon!
+2)What is this place?
+
+2>Here we are using the sacred cannon!!! It is very powerful, I think!
+4)The sacred canon?
+5)The sacred cannon?
+1)Who are you?
+
+3>END
+
+4>No, the sacred cannon!
+4)The sacred canon?
+5)The sacred cannon?
+
+5>The sacred cannon was given to us by aliens! It is very sacred.
+The sacred cannon is our means of communication with the dancing god.
+6)Can I use the cannon?
+7)How do you use the cannon to communicate?
+8)Can I get inside the cannon?
+
+6>The cannon is being open for the public to use!
+But it is out of gunpowder. It is "BYOG", "Bring Your Own Gunpowder."
+Simply be loading the gunpowder in the cannon before use.
+7)How do I use it?
+11)Where can I get gunpowder?
+
+7>Load the cannon with gunpowder. Put your prayer in the cannon. Then KABOOM! IT IS FLYING THROUGH THE AIR, IN PIECES!!!
+This is how I, the Pankrator supreme, engage with the transcendental!
+10)What is the dancing god?
+11)Where can I get gunpowder?
+
+8>Good heavens no, you musn't get inside the cannon! It would be very dangerous! Who knows what could happen!
+9)I promise I will not get in the cannon.
+9)I'm going to try getting inside the cannon.
+7)Hypothetically, how would I use the cannon?
+
+9>Good, good!
+6)Can I use the cannon?
+7)How do you use the cannon to communicate?
+11)Where can I get gunpowder?
+
+10>Nietzsche wrote, “I would only believe in a god who could dance.”
+Whatever that thing out there is, it is dancing! I think!
+6)Can I use the cannon?
+8)Can I get inside the cannon?
+11)Where can I get gunpowder?
+
+11>They say the vampire has a gunpowder stockpile in his dungeon.
+He is too cowardly to come challenge me, the Pankrator supreme, in hand to hand combat!
+He is knowing I am being the victor, I think!!! I am Maximum Strong!
+7)How do you use the cannon to communicate?
+8)Can I get inside the cannon?

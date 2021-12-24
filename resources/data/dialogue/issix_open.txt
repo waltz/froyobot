@@ -1,0 +1,10 @@
+0>Well, well. What have we here?
+1)What's up with this door?
+
+1>Isn't it great? Isn't it grand in scale, and magestic?
+2)What's inside?
+
+2>Who knows!
+I'm afraid to explore it!
+If you're going inside, please, be careful!
+END

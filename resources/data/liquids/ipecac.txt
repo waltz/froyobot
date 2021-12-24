@@ -1,0 +1,12 @@
+name=ipecac
+r=69
+g=40
+b=60
+a=225
+nutrition=1
+vegetable=1
+meat=0
+immoral=0
+offal=0
+flammable=false
+poison=true

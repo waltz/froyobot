@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>hell</filename>
+    <fromString>Marissa HR</fromString>
+    <toString>$name</toString>
+    <subject>RE: your recent death and passage into Hell</subject>
+    <content>
+    
+  Hi $name,
+
+  So you died and you're in hell, huh? We're all very sorry to hear that. We reached out to your work friend, Neville, and he was very distraught. He kept saying, "who?", over and over again.
+
+  Good news! Even though you're dead, HR has opted not to terminate your employment at this time. You will have the amazing opportunity to continue to work for us as a Spectral Contractor! 
+
+  We have mailed you a camcorder. So excited to keep you on as part of the team!
+
+  -Marissa
+  Human Resources Director, EB Productions, Inc.
+    </content>
+    <read>0</read>
+    <torsoSprite>skirt_blue</torsoSprite>
+    <headSprite>girl</headSprite>
+    <skinColor>1</skinColor>
+</Email>

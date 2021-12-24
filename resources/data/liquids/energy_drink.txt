@@ -1,0 +1,13 @@
+name=energy drink
+r=243
+g=240
+b=127
+a=150
+nutrition=10
+vegetable=1
+meat=0
+immoral=0
+offal=0
+flammable=false
+speed=true
+strength=true

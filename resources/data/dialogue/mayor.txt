@@ -1,0 +1,17 @@
+0>Well hello there! You must be the new yogurt commercial actor in town!
+On behalf of the great town of Peabody, welcome!
+Allow me to introduce myself: I am the mayor of this town.
+1)Thank you mister mayor.
+2)Thanks, gotta run!
+3)Once I am mayor, there will be some changes around here.
+
+1>If you have any questions, my office is off the left side of the screen.
+2)Thank you for your time, Mr. Mayor.
+
+2>END
+
+3>My dear [[man|woman]], you haven't the slightest clue of what you're walking into!
+Might I remind you, as Mayor of this town, I can easily have you buried in a shallow grave!
+And you call yourself a yogurt commercial actor!
+If you decide to change your ways, my office is off the left side of the screen.
+END

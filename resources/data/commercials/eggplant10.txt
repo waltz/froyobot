@@ -1,0 +1,8 @@
+Mega Healthy Commercial
+One eggplant is not enough. Eat ten eggplants on camera to show your commitment to healthiness.
+none
+unlock,vampire
+item,kaiser_helmet
+email,eggplant
+yogurt,≥,1,eat yogurt on camera
+eggplant,≥,10,eat ten eggplants on camera

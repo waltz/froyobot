@@ -1,0 +1,12 @@
+name=green paint
+r=68
+g=206
+b=75
+a=255
+nutrition=1
+vegetable=0
+meat=0
+immoral=0
+offal=1
+flammable=true
+poison=true

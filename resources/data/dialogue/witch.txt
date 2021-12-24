@@ -1,0 +1,47 @@
+0>Yee hee hee!
+Try my gravy, dearie?
+1)What are you doing here? What is this place?
+2)You guys are doing gravy stuff up here?
+3)I'd love to try some gravy.
+
+1>This is a commercial studio, dearie.
+We are shooting commercials for Scram Gravy!
+5)That's right, and I'm the new talent management has brought on board.
+7)That's so weird. Back on Earth I'm a yogurt commercial actor!
+
+2>Round about the cauldron go;
+In the poison'd entrails throw.
+4)Not sure I want to eat anything with poisoned entrails in it.
+6)Hmmm, what else you got in there?
+
+3>Please, be my guest!
+Yeeeee hee hee hee heee!
+END
+
+4>Scram gravy ain't bad!
+In fact, it's half good!
+I don't know what I'm saying half the time! Yaw ha haw haw!
+6)What is even in Scram Gravy?
+5)I've heard enough. Let's shoot some gravy commercials.
+
+5>Well, don't let me stop you then!
+Start the camera and let's get shooting!
+END
+
+6>{ingredient}.
+6)What else?
+5)I've heard enough. Let's shoot some gravy commercials.
+
+7>What's yogurt?
+Some sort of Earth gravy?
+8)Yes, that's right. Earth gravy.
+4)It's sort of like Scram Gravy, but better.
+5)Nevermind. Let's shoot some gravy commercials!
+
+8>It must not be very good gravy if they don't have it on the moon here.
+9)Shut your mouth! Yogurt is insanely good stuff!
+6)What's in scram gravy that makes it so good, then?
+
+9>No it isn't!
+9)Yes it is!
+4)Scram gravy is bad!

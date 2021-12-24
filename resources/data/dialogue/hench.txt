@@ -1,0 +1,18 @@
+0>Sir! Sir!
+What are you doing down here in the dungeon, sir?
+Did you accidentally fall in?
+1)Get away from me! I don't "accidentally" do anything!
+1)Shut up! I want to fall down this pit!
+1)Go away!
+
+1>Don't worry Sir, we'll get you out of the magic trap in just a second!
+I know this must be embarassing for you!
+Just sit tight while we work on the problem!
+2)I am ordering you to let me fall into the pit!
+2)I do not require your help! 
+2)This is not helping!
+
+2>Oops, there we go!
+You're all set, Sir!
+See you topside! Ha ha!
+END

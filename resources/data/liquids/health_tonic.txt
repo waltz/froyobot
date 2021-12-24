@@ -1,0 +1,11 @@
+name=health tonic
+r=18
+g=137
+b=78
+a=225
+nutrition=1
+vegetable=1
+meat=0
+immoral=0
+offal=0
+flammable=true

@@ -1,0 +1,60 @@
+#grossreact
+Nasty!
+Gnarly!
+Gross!
+Wow!
+
+#disturbreact
+Wow!
+Where'd you learn that?
+Whoah, momma!
+
+#chaosreact
+Wow!
+This is one crazy cat!
+Like, wow!
+Have mercy!
+
+#offensereact
+Wow!
+Lay off that!
+Uncool!
+
+#positivereact
+Sweet!
+That's cookin'!
+What a gas!
+Yo!
+
+#nuisance
+Do you know who you're messin' with?
+Nice trick, kid!
+Cool it!
+You're buggin' me!
+
+#newenemy
+You've got some nerve!
+You're gonna pay for that!
+Do you know who you're messin with?
+A rumble!
+I'll cream ya!
+You're cruisin' for a knuckle sandwich!
+
+#greet-friend
+Scorpion gang!
+
+#greet-enemy
+What are you lookin' at?
+Why don't you make like a tree, and get out of here?
+
+#greet-neutral
+Scorpion gang!
+Our turf!
+23 skidoo!
+What are you lookin' at?
+Dig it!
+
+#cough
+Ack!
+Arg!
+Gasp! *Choke*

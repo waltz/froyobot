@@ -1,0 +1,15 @@
+0>Incredible! You have slain the ghosts!
+How did you accomplish this feat?
+1)I used a cosmic dagger from the moon.
+1)A ghost hunter never reveals [[his|her]] secrets.
+1)I don't remember.
+
+1>Amazing! This calls for the highest award a mayor can bestow.
+As mayor, I hearby present to you the key to city!
+It can unlock any lock! Use it wisely, $name! Use it wisely!
+2)Thank you, Mr. mayor.
+2)I accept this burden with a heavy heart.
+2)More keys! Who needs 'em?
+
+2>MAYORAWARDCALLBACK
+END

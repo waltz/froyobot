@@ -1,0 +1,11 @@
+name=gravy
+r=142
+g=82
+b=13
+a=200
+nutrition=20
+vegetable=0
+meat=1
+immoral=0
+offal=0
+flammable=false

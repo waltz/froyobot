@@ -1,0 +1,15 @@
+#default
+{ingredient}
+
+#ingredient
+Polysorbate 80
+Ferrous Sulfate
+Thiamin Mononitrate
+Riboflavin
+Water
+Sugar cane fiber
+Maltodextrin
+Canola and/or expressed non-gmo soybean oil
+Cultured wheat flour
+Wheat gluten
+Ascorbic acid

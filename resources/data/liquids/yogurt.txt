@@ -1,0 +1,11 @@
+name=yogurt
+r=255
+g=255
+b=255
+a=255
+nutrition=10
+vegetable=1
+meat=0
+immoral=0
+offal=0
+flammable=false

@@ -1,0 +1,21 @@
+% provided by context: what-happened, main
+
+#review
+{main}
+
+#bad_low
+It was memorable when {what-happened}.
+The tone of the commercial was darkened when {what-happened}.
+
+#good_low
+It was memorable when {what-happened}.
+Audiences seemed to like when {what-happened}.
+
+#bad_high
+Audiences were shocked when {what-happened}.
+The unquestioned low point of this {adjective1} commercial was when {what-happened}.
+There is no good justification to include the scene where {what-happened}.
+
+#good_high
+Audiences are loving the {adjective1} conclusion when {what-happened}.
+

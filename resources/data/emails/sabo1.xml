@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>sabo1</filename>
+    <fromString>Agamemnon</fromString>
+    <toString>$name</toString>
+    <subject>the pelican flies at midnight</subject>
+    <content>Be advised the falcon has upset the apple-cart. The pelican is in the roost. Await further instruction.
+
+
+Agamemnon
+    </content>
+    <read>0</read>
+    <torsoSprite>anti_mayor_suit</torsoSprite>
+    <headSprite>anti_mayor</headSprite>
+    <skinColor>3</skinColor>
+</Email>

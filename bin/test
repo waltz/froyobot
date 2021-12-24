@@ -1,4 +1,4 @@
 #! /usr/bin/env bash
 
 # Run the unit tests
- pipenv run python -m unittest discover tests
+python -m unittest discover tests

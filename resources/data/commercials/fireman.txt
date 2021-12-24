@@ -1,0 +1,7 @@
+Hunky Fireman Commercial
+Shoot a normal yogurt commercial. A firefighter, or somebody dressed as a firefighter, must eat the yogurt. You should seriously consider just calling for a fireman and mugging him for his clothes... That's what I'd do.
+none
+item,fez
+email,fireman
+yogurt,≥,1,eat yogurt on camera
+outfit,firefighter_outfit,fireman eats yogurt

@@ -1,0 +1,10 @@
+1.5
+SATAN:I will gladly try Bob Yogurt!
+1.5
+MOE:Bob Yogurt looks like pretty good stuff!
+0.5
+CURLY:This is the yogurt I've been looking for!
+0.5
+MOE:Good heavens! This yogurt!!!
+2
+END

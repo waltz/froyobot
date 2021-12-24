@@ -1,0 +1,9 @@
+Boardroom
+Eat yogurt with the yogurt headquarters board members. They want to be on camera. Make sure all of them get to eat the yogurt, you might want to bring extra.
+none
+item,squirt_gun
+email,boardroom
+yogurt,≥,1,eat yogurt on camera
+eatName,Larry,Larry eats yogurt
+eatName,Curly,Curly eats yogurt
+eatName,Moe,Moe eats yogurt

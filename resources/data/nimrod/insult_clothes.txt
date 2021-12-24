@@ -1,0 +1,24 @@
+% provied by context: 
+% target-clothes
+% target-clothes-plural
+
+#insult
+{insult-shirt}
+
+#sarcastic-question
+{sarcastic-question-shirt}
+
+#insult-shirt
+Your shirt look like a dishrag
+That {target-clothes} looks like something {bad-person} would wear
+Still robbing {location}s for those {target-clothes-plural}, I see
+Nice {target-clothes}<0.5|, for a clown to wear>
+It's not Halloween, take off the {target-clothes}
+
+#sarcastic-question-shirt
+Where did you get that {target-clothes}? At the {store-type}<0.5| for {asshole}s>?
+Are you on your way to a funeral or something? With that {target-clothes}?
+You think you can pull off that {target-clothes}?
+
+#why-upset
+because of your stupid {target-clothes}

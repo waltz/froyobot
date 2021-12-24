@@ -1,0 +1,19 @@
+0>Come on in, buddy, grab a seat.
+Welcome to Hell's Kitchen.
+1)Nice hat, jerk.
+2)What's on the menu?
+
+1>Listen, if you're gonna bust my chops you can take it over the bridge, got it?
+I run a tight ship here. No yahoos.
+2)Just playing around old man. Lemme see the menu.
+
+2>Today we've got the Chef's Special, Hell Medley!
+It's a stew of shredded documents, amphetamines, and crude oil!
+3)Sounds gnarly.
+4)I'll help myself, thanks. 
+
+3>No, your face is "gnarly", dickwad. Now do you want some or not?
+4)I'll think about it.
+4)Nah.
+
+4>END

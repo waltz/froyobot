@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4077643266410836202
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4071478968196635492}
+  - component: {fileID: 4108774926091509954}
+  m_Layer: 0
+  m_Name: yogurt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4071478968196635492
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4077643266410836202}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.57981, y: -1.9123201, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4108774926091509954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4077643266410836202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f6ba793547214031988419d179577d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  potionData:
+    name: yogurt
+    ingredient1:
+      icon: {fileID: 21300006, guid: 5a124091743fdaa49b3c09fd3e11ab25, type: 3}
+      name: turpentine
+      prefabName: turpentine
+      spriteColor: {r: 0.24870951, g: 0.764151, b: 0.40753743, a: 1}
+    ingredient2:
+      icon: {fileID: 21300000, guid: 305f1a64ca0df4727bc6458d5ab3ac04, type: 3}
+      name: swamp root
+      prefabName: swamproot
+      spriteColor: {r: 1, g: 1, b: 1, a: 1}
+    buff:
+      type: 2
+      boolValue: 1
+      floatValue: 0
+      lifetime: 0
+      time: 0
+    buffDescription: This is a recipe for delicious yogurt!
+    bookDescription: Old-fashioned recipe for yogurt.
+    makeYogurt: 1

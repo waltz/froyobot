@@ -1,0 +1,8 @@
+Disturbing III
+They're making a yogurt commercial in the studio over there... I want you to go in there and mess it up!!! 
+am1
+unlock,disturb3
+item,death_ray_lamp
+email,sabo1
+disturbing,≥,750,achieve disturbing 750<sprite=1>
+sabotage

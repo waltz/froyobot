@@ -1,0 +1,31 @@
+0>Whew! Hot day, huh?
+Welcome to Freezin' Over Smoothies. What can I get you?
+1)I'll have a smoothie.
+2)Tell me about your smoothies.
+
+1>We've got the Ectoplasm-A-Go-Go, Power Pizza, and Classic Liver™!
+3)I'll have an ectoplasm smoothie.
+4)Gimme a pizza smoothie.
+5)I'll try that liver smoothie.
+
+2>At Freezin' Over Smoothies, we deliver the finest in nutrition-boosted smoothies.
+Our Ectoplasm-A-Go-Go delivers plant-based antioxidants.
+The Power Pizza is a protein-blasted™ and packed with whole foods!
+The Classic Liver is great for a detox cleanse! (contains whey, nuts) 
+Freezin' Over Smoothies is a wholly-owned subsidiary of Blockbuster, Inc.
+1)I'll try a smoothie.
+6)Sounds great. Thanks.
+
+3>Comin' right up!
+SMOOTHIE1
+END
+
+4>Comin' right up!
+SMOOTHIE2
+END
+
+5>Comin' right up!
+SMOOTHIE3
+END
+
+6>END

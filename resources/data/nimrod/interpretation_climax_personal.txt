@@ -1,0 +1,19 @@
+% provided by context: adjective1, what-happened, main
+
+#review
+{main}
+
+#bad_low
+The commercial lost me when {what-happened}.
+In particular, I did not like when {what-happened}.
+
+#good_low
+I thought it was appropriate when {what-happened}.
+I liked when {what-happened}.
+
+#bad_high
+I will be telling my friends about the part where {what-happened}.
+When {what-happened}, I felt bad.
+
+#good_high
+I will be telling my friends about the part where {what-happened}.

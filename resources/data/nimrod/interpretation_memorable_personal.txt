@@ -1,0 +1,92 @@
+% provided by context: what-happened, main
+
+#review
+{main}
+
+#bad_low
+I guess I did not like the part when {what-happened}.
+My advice<0.5| to the filmmakers> would be to cut the part where {what-happened}.
+It didn't need the part where {what-happened}.
+
+#good_low
+I guess I liked the part when {what-happened}.
+Just include more stuff like when {what-happened}.
+It was good when {what-happened}<0.5|, {positive-react}>.
+{positive-react} when {what-happened}.
+
+#positive-react
+I laughed
+I clapped
+I giggled
+I enjoyed it<0.5| thoroughly>
+
+#bad_high
+It's hard to forget about when {what-happened}<0.5|, although I wish I could>.
+Remembering the part where {what-happened} {bad-feeling}.
+Why did you have the part when {what-happened}? {objection}!<0.5|!>
+In particular I {object} the part where {what-happened}.<0.5|It {bad-feeling}.>
+<0.5|It {bad-feeling}! >{objection}!<0.5|!><0.5|!>
+
+#object
+object to
+question the wisdom of including
+wonder why you included
+loathe
+reacted negatively
+
+
+#objection
+It was uncalled for
+It was not necessary
+It was offensive
+I object to the whole premise of this commercial
+This commercial should never be aired publicly
+What {sickos} made this <0.5|{utter} >{filth}?
+It has nothing to do with yogurt
+It makes me hate yogurt, honestly
+It bothers me
+It shouldn't have been made
+I fear I have witnessed something illegal
+I can't believe this
+I did not expect this
+I was not emotionally prepared for this
+It was horrifying
+
+#sickos
+sickos
+hacks
+
+#utter
+sheer
+utter
+debauched
+
+#filth
+filth
+trash
+garbage
+nonsense
+
+#good_high
+I loved the {adjective1} conclusion when {what-happened}.
+
+#bad-feeling
+{leaves me} with a {feeling}
+leaves me feeling {nauseated}
+fills me with dread
+just makes me feel bad
+does not make me feel good about yogurt
+
+#leaves-me
+leaves me
+fills me
+
+#feeling
+bad feeling
+feeling of revulsion
+unsettling feeling
+
+#nauseated
+nauseated
+unsettled
+angry

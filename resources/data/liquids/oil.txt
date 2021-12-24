@@ -1,0 +1,11 @@
+name=oil
+r=20
+g=20
+b=20
+a=255
+nutrition=10
+vegetable=0
+meat=0
+immoral=0
+offal=1
+flammable=true

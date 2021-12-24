@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>moon</filename>
+    <fromString>Producer Susan</fromString>
+    <toString>$name</toString>
+    <subject>FWD: HR lunar travel policy</subject>
+    <content>
+    
+  Hi $name,
+
+    How's the moon this time of year? Are you still feeling spacey? Did you go to the dark side?
+
+    Were you able to get a reservation, or was it full?
+
+    Thanks for the moon commercial. Make sure you file an expense report for your travel!
+
+  -Susan
+  Producer, EB Productions, Inc.
+    </content>
+    <read>0</read>
+    <torsoSprite>skirt_red</torsoSprite>
+    <headSprite>girl</headSprite>
+    <skinColor>2</skinColor>
+</Email>

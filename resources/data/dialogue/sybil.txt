@@ -1,0 +1,85 @@
+0>All hail $eitherName, famous yogurt commercial actor!
+1)You guys have heard of me even all the way up here?
+2)I seek the true seer's wisdom.
+
+1>Hey, it's nothing personal, buddy.
+Knowing about people is kind of the oracle's whole job, you know?
+So whattaya wanna know?
+3)Why are my yogurt commercials never good enough for the board?
+4)I'm looking for career advice.
+
+2>Nothing is hidden from the Oracle!
+3)Why are my yogurt commercials never good enough for the board?
+4)I'm looking for career advice.
+
+3>You're working for Bob Yogurt, right? That's right.
+Alright, let's see.... I will now enter the oracular trance...
+TEXTSIZE:LARGE
+{mantra}!
+{mantra}!
+TEXTSIZE:NORMAL
+...
+On a subconscious level, the members of the board all know you have incredible potential.
+The potential to create the Ultimate Yogurt Commercial of All Time.
+They need you to save the company, but they fear what you will unleash.
+6)How should I got about my quest?
+7)What will I unleash?
+
+4>Career advice? You come all the way up here for career advice? 
+Holy moly.
+5)Um...
+5)It's a simple request.
+5)I'm kinda new to the whole oracle thing, so...
+
+5>Silence! I will now enter the oracular trance....
+TEXTSIZE:LARGE
+{mantra}!
+{mantra}!
+TEXTSIZE:NORMAL
+...
+You are a yogurt commercial actor?
+Then you will not rest until you have created the Ultimate Yogurt Commercial of All Time.
+8)Will that save the company?
+9)Why should I? I'm not getting much out of this arrangement.
+
+6>Use every trick at your disposal. 
+There is nothing cheap, unfair, or too easy. There's no right way or wrong way to accomplish your goal. 
+A yogurt commercial actor is basically a hacker who is trying to hack reality itself.
+Forget your preconceptions and learn the rules of this world. Progress is the only measure of your success.
+Etch this mantra on your heart, child:
+TEXTSIZE:LARGE
+YOGURT COMMERCIALS! YOGURT COMMERCIALS! OH LORD ALL THESE YOGURT COMMERCIALS!!!
+TEXTSIZE:NORMAL
+...
+10)That sounds wildly unethical!
+11)Whoah! 
+
+7>Before this is all over, you will have to make a choice.
+If your work is pure and from the heart, you will escape the snare.
+If you reach for the jewels, you may live your life in a gilded cage.
+You will make a deal with a very powerful foe! Beware!
+10)What a load of hogwash.
+11)Are these Led Zeppelin lyrics?
+
+8>Nothing less than the Ultimate Yogurt Commercial of All Time can save Bob Yogurt.
+You will visit other worlds, and plumb the very depths of hades, before you will know it.
+At one point, you'll even get flushed down the toilet. Rare but true.
+You can save the company, but at what cost? If you're not careful, you'll lose your soul.
+10)I wasn't doing much with it anyway!
+11)I see.
+
+9>The value of the thing is in the doing.
+When you follow your pure art, you have the momentum of the universe behind you!
+Don't fight your destiny! You are like a perfect piano, about to be played by Prince!
+10)I want my money back.
+11)Interesting.
+
+10>Alright, whatever.
+It's been a long day.
+Begone now, traveler! Heed thyself!
+END
+
+11>Good talk.
+This oracular consultation is now officially closed.
+Begone now, traveler! Heed thyself!
+END

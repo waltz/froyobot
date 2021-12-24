@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>duplicator</filename>
+    <fromString>Producer Susan</fromString>
+    <toString>$name</toString>
+    <subject>duplicator</subject>
+    <content>
+    
+  Hi $name,
+  
+  You need to eat ten eggplants on camera. I'm sorry, but that's just the way it is.
+
+  The prop master couldn't find ten eggplants, so we've ordered an Acme Duplicator 3000™ to be shipped to your home.
+
+  Use it to duplicate your eggplant.
+
+  -Susan
+  Producer, EB Productions, Inc.
+
+  PS: Under no circumstances should you use the duplicator on anything other than eggplants.
+
+  EB Productions, Inc., will not be held liable for damages, public or private, that occur as a result of misuse of duplicator.
+
+  The end user accepts all responsibility for felonies, crimes, or misdemeanors incurred as a result of use of duplicator.
+  
+  -Steve
+  Legal Dept., EB Productions, Inc.
+    </content>
+    <read>0</read>
+    <torsoSprite>skirt_red</torsoSprite>
+    <headSprite>girl</headSprite>
+    <skinColor>2</skinColor>
+</Email>

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &564966077972439001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4906977844988069400}
+  - component: {fileID: 1451219006091283424}
+  m_Layer: 0
+  m_Name: voiceRobo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4906977844988069400
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 564966077972439001}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.34699374, y: -0.699462, z: -19.174313}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1451219006091283424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 564966077972439001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb4b132f9ed97416e9f460c186d51c94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speechSet: voiceRobo
+  sounds:
+  - {fileID: 8300000, guid: 4b29a88464f4c41b88857b7d95d97536, type: 3}
+  - {fileID: 8300000, guid: df41252c8f5ed49c5abc0ba853423229, type: 3}
+  - {fileID: 8300000, guid: e69694057ce844c7eaf1609333a15a56, type: 3}
+  - {fileID: 8300000, guid: 2a4d99804b22345f6b08a268ab1bd890, type: 3}
+  - {fileID: 8300000, guid: 20da505fe7c3745b6bc6f6690982744b, type: 3}
+  - {fileID: 8300000, guid: f25302dd2a045442e8ea19e7eba9e8c6, type: 3}
+  - {fileID: 8300000, guid: d4ca27b461e734262904954692ec94b2, type: 3}
+  - {fileID: 8300000, guid: ddd530141d6c7462ab9259045ae66f62, type: 3}
+  - {fileID: 8300000, guid: ebc3b19e898494d3aa1dfa1275036fed, type: 3}
+  - {fileID: 8300000, guid: b274e22a39f7e44e1b886627800a6479, type: 3}
+  - {fileID: 8300000, guid: ef112863bfa984d7294e22ca72b65aee, type: 3}
+  - {fileID: 8300000, guid: 7f2d3a9bdc43d4b1ba795d4c390301c3, type: 3}
+  - {fileID: 8300000, guid: 5b53eea5bf05b415ba6bbed8ac837e13, type: 3}
+  - {fileID: 8300000, guid: 70d33aad824db4ee1bc28892b27157f8, type: 3}
+  - {fileID: 8300000, guid: c8b653571bb3141e7ab1e494b549cac0, type: 3}
+  randomPitchLow:
+    low: 0.8
+    high: 0.9
+  randomPitchHigh:
+    low: 1
+    high: 1.1
+  randomSpacingLow:
+    low: 0.18
+    high: 0.21
+  randomSpacingHigh:
+    low: 0.24
+    high: 0.28

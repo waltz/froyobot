@@ -1,0 +1,53 @@
+#grossreact
+Oh, yuck!
+How gross!
+Disgusting!
+Do that somewhere else!
+You crude monster!
+
+#disturbreact
+Oh my God!
+What the hell?!
+Eeeek!
+Oh fuck!
+Holy shit!
+
+#chaosreact
+Yikes!
+Whoah!
+Shit!
+
+#offensereact
+Hey!
+Really now!
+I am shocked!
+
+#positivereact
+Yay!
+Oh!
+
+#nuisance
+Hey! What's the big idea?
+Knock it off!
+Quit screwing around!
+
+#newenemy
+Why you!
+A wiseguy, eh?
+
+#greet-friend
+Hello, friend!
+Hi {interlocutor}!
+
+#greet-enemy
+You've got some nerve coming around here!
+
+#greet-neutral
+Hello there!
+Hello {interlocutor}<0.5|!|.>
+
+
+#cough
+Ack!
+Arg!
+Gasp! *Choke*

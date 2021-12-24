@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>vampire</filename>
+    <fromString>Producer Susan</fromString>
+    <toString>$name</toString>
+    <subject>vampires are real?</subject>
+    <content>
+    
+  Hi $name,
+
+    Vampires are real now? I thought they don't show up on cameras. Or is that ghosts? Or mirrors? Help me out here.
+
+  -Susan
+  Producer, EB Productions, Inc.
+    </content>
+    <read>0</read>
+    <torsoSprite>skirt_red</torsoSprite>
+    <headSprite>girl</headSprite>
+    <skinColor>2</skinColor>
+</Email>

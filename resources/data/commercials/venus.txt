@@ -1,0 +1,8 @@
+Venus Commercial
+Eat a yogurt on venus.
+none
+unlock,hell
+item,spray_paint
+yogurt,≥,1,eat yogurt on camera
+location,eat yogurt on venus,venus1,venus_temple
+hallucination,magician2

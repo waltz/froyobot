@@ -1,0 +1,24 @@
+0>Welcome... Welcome... Come in...
+Have you brought me items?
+1)Why do you want to see my items?
+2)How can I show you my items?
+3)Where is your face?
+
+1>Magical items, powerful items...
+Show them to me, and I can tell you many things...
+I can even tell you how to mix potions, you see...
+2)How do I show you an item?
+4)Potions, huh? Sounds like a hoot.
+
+2>Hold an item, and draw close to me.
+Then click the "analyze" button.
+4)Stop breaking the fourth wall!
+4)I think I can handle that.
+1)Why should I bring you items?
+
+3>If you saw my face, you'd never believe it...
+4)Are you trying to creep me out?
+4)Gotcha. Thanks.
+4)I've gotta run...
+
+4>END

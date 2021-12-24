@@ -1,0 +1,141 @@
+0>Huh? Who's that? Eh? Huh?
+1)Are you the anti-mayor?
+3)It's me, $name. Who are you?
+11)That's a nice coat.
+
+1>Yes, it is I, the anti-mayor!!!
+1)It is I, $name!
+7)It is I, $name, the yogurt commercial star!
+5)I heard about you from the mayor of Peabody, down on Earth.
+
+2>END
+
+3>Perhaps you have heard of me!!!
+I am the anti-mayor!
+5)I heard about you from the mayor of Peabody, down on Earth.
+10)Anti-mayor? More like anti-butt!!!
+19)What have you got up that ladder?
+
+4>TEXTSIZE:LARGE
+NIAGARA FALLS!!!
+TEXTSIZE:NORMAL
+Sloooowly I turn!
+And step... By step... Inch... By inch...
+VAMPIREATTACK
+END
+
+5>A foolish, simple man!
+He thinks being tin-pot king of his little fiefdom is the best thing in the world!
+But he could never be an anti-mayor of the moon!!! NEVER!!!
+6)Are you trying to sabotage the yogurt commercials?
+9)What's so hard about being an Anti-Mayor?
+19)What's up that ladder there?
+
+6>Of course I am! What a horrible little business!
+I hope you never had any part in these yogurt commercials!
+21)Why are you trying to stop the yogurt commercials?
+7)I am the lead actor of many yogurt commercials.
+8)I, too, hate yogurt commercials.
+
+7>You'd better be careful, then!
+I have heard that yogurt commercial actors have been visited in the night!
+Ha ha ha!
+21)Why are you so against the yogurt commercials?
+
+8>Glad to hear it, fellow traveler!
+I will happily offer you a role in our own commercials!
+The commercials are for scram gravy!
+13)Scram gravy, huh? Sounds like a hoot.
+9)You got anything else besides commercials?
+21)But why are you so against the yogurt commercials?
+
+9>Perhaps you can help me!
+I lost my enchanted silver dagger in the temple ruins!
+15)So you just need me to go find it? What's the catch?
+16)Temple ruins? Where is the temple, again?
+
+10>WELL MET, FRIEND!
+Might I interest you in a business proposition?
+9)I'm listening...
+8)I'm more interested in the gravy commercials.
+
+11>Ah, you refer to the legendary Coat of the Anti-Mayor!
+This coat grants me total immunity to all damage, impacts, combat, etc.!
+It gives me party-perfect confidence in battle! I am unstoppable!
+12)Are you worried that your enemies might try to kill you, nevertheless?
+8)Well it looks mighty snazzy!
+5)I heard about you from the mayor of Peabody, down on Earth.
+
+12>Let them try! I am not afraid of sneaking cutthroats and treasonous dogs!
+I spit on them! I spit! I spit!!!
+Only a fool would believe you could die without taking damage!
+What sort of cretinous nonsense is this! Absurd! To die without taking damage!
+9)So what's your deal, then?
+5)Do you know the mayor of Peabody?
+
+13>The motto is: "Scram Gravy Ain't Wavey!"
+Just thinking of it fills me with immense power! Ha ha ha ha!
+14)Scram gravy aint wavey!
+6)Are you trying to sabotage the yogurt commercials?
+
+14>SCRAM GRAVY AINT WAVEY! INDEED!!!
+TEXTSIZE:LARGE
+HA HA HA HA HA HA HA!!!
+TEXTSIZE:NORMAL
+Wow!
+9)So what else?
+
+15>The moon temple is host to many angry spirits of the lunar anti-priests.
+Lots of bad vibes over there. They might want to keep the dagger.
+18)I thought you said this was your dagger? 
+16)Where is the temple, again?
+17)I ain't afraid of no ghost! Enough chit-chat!
+
+16>Go all the way over to the right, past where you first landed on the moon.
+15)Sounds easy, why haven't you gotten the dagger yourself?
+17)Right, I've heard enough. Let's get this dagger!
+
+17>Godspeed! Good luck! Ha ha ha!
+END
+
+18>Well, it's more like this dagger falls under my jurisdiction.
+It's an ancient artifact made during the height of the transplutonian empire.
+16)Where is the temple, again?
+17)I ain't afraid of no ghost! Enough chit-chat!
+
+19>This ladder leads to the full-width rooftop terrace with spectacular views of Earth and Venus.
+Don't mind the ancient astral gate! Har har har!
+20)What's an astral gate?
+6)Are you trying to sabotage the yogurt commercials?
+11)That's a nice coat.
+
+20>More ancient technology. It used to allow travel between the moon and Venus.
+It's shut now.
+5)I heard about you from the mayor of Peabody, down on Earth.
+6)Are you trying to sabotage the yogurt commercials?
+11)That's a nice coat.
+
+21>You are dabbling with forces beyond your comprehension.
+The Ultimate Yogurt Commercial of All Time.... Some believe it is a myth! It is not a myth!
+Listen.... I know how your business works. I know where this all leads.
+You must not create the Ultimate Yogurt Commercial of All Time! Your very soul is in danger!
+22)What are you talking about? What are these sinister forces?
+
+22>The devil himself sets a snare for you, even as we speak.
+Not all is well with your employer, Bob Yogurt! The rot at their core is beginning to show.
+The devil will come to collect. Mark my words. He returns to the earth to set his affairs in order.
+Stop now, while you still can! Save your soul!
+23)You mean the actual devil? Like, Satan?
+10)I know you're crazy, but this devil talk is just too much.
+
+23>Yes, I mean the actual devil! Satan! The big bad guy! Pointy tail, red horns!
+This yogurt business will lead you to the very foot of his throne, $name! Mark my words!
+When the time comes, you will have to make a choice... Pray you choose wisely!
+10)Uh huh. Good talk.
+24)I still don't understand. What choice? What does the devil want?
+
+24>Let's just say, demonic forces have controlled the yogurt industry since time immemorial.
+Nothing escapes the devil's grasp... He sits in his lair, scheming to bring about the Ultimate Yogurt Commercial of All Time.
+When that time comes, the ritual will be complete, and the cycle will begin again.
+10)Alright, I've heard enough.
+8)Well this yogurt business sounds like bad news to me.

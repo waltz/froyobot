@@ -1,0 +1,68 @@
+0>Welcome... Welcome... Come in...
+1)What is this place?
+2)Who are you?
+3)Do you have a public restroom here?
+
+1>This is a humble alchemical potion research lab and gift shop, a wholly-owned subsidiary of GloboPharmCorp.
+2)Who are you?
+4)What do you do here?
+
+2>I am a humble apprentice of the alchemical arts.
+Technically, I am a grad student in the Alchemy department at Peabody University. I work here to make ends meet.
+1)What is this place?
+4)What do you do here?
+7)Where is Peabody University?
+
+3>The restroom is for paying customers only.
+2)Who are you?
+4)What do you do here?
+
+4>I study the magical art of alchemy!
+Sometimes you may see a status effect in the upper-right corner of your screen, such as strength or poison.
+Bring me any armors, items, or potions that give you these effects!
+I will tell you how to mix a potion for any effect!
+5)So you can teach me to make potions?
+
+5>Bring me any item that gives a status effect and I can teach you the potion recipe.
+If you bring me an item that is an ingredient in a potion, I can tell you which potion it belongs to.
+8)You can't just tell me how to make the potion? I have to bring you something first?
+9)Once I have the ingredients, how do I make a potion?
+10)What sort of things are potion ingredients?
+
+6>All aspects of what we colloquially call reality are transactions between your nervous system and the external world.
+5)Let's get back to the potion stuff please.
+13)I know you're doing a thing here, but this mystial hogwash is not helpful.
+11)Let me think on that for a while.
+
+7>Peabody University is not in this game. Our stupid programmer is too lazy to add it in.
+Maybe you can visit it in Yogurt Commercial 4?
+4)What do you do here?
+
+8>Look, buddy, I don't make the rules.
+Bring me examples of what you want, and I'll give you a potion recipe.
+12)How about a freebie?
+11)I'll see what I can dig up. Thanks.
+10)What kind of potion ingredients are we talking here?
+
+9>Liquify and mix the ingredients together, of course!
+A blender works great for this!
+10)Cool, and what sort of ingredients are we talking here?
+
+10>Well, usually they are squishy things, small enough to fit in a blender.
+Sometimes they are other liquids.
+Potion ingredients are often rare, and hard to get.
+If you're not sure, bring something to me!
+11)Thanks. Will do.
+9)What do I do with the ingredients after I get them?
+
+11>END
+
+12>All right, but just this once.
+Blend together eggplant and yogurt to make a potion of strength.
+Don't believe me? Bring me a strength potion to check!
+END
+
+13>Good, let's talk about something else then.
+9)Once I have ingredients, how do I make a potion?
+10)What sort of things are potion ingredients?
+12)How about a free, easy potion recipe?

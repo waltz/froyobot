@@ -1,0 +1,12 @@
+name=strength potion
+r=255
+g=205
+b=0
+a=225
+nutrition=10
+vegetable=1
+meat=0
+immoral=0
+offal=0
+flammable=false
+strength=true

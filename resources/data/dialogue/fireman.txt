@@ -1,0 +1,33 @@
+0>Hello [[sir|ma'am]], keep calm!
+1)You're my hero!
+2)Help! You need to put out this fire!
+3)I'll let you do your thing.
+
+1>Firemanning is a great and terrible job. 
+7)Teach me how to be a fireman.
+8)Do you enjoy your work?
+
+2>We all have problems.
+Maybe I could put that fire out if you make it worth my while.
+4)Are you asking me to bribe you?
+5)I don't need to make your job worthwhile!
+6)We can work something out.
+
+3>END
+
+4>I prefer to call it "incentivizing efficiency and growth through the removal of bureaucratic rigidities."
+3)That is an excellent point. I agree.
+3)You have brought me around to your point of view. Thank you.
+3)Now that I think about it, I agree with the practice of bribery.
+
+5>That's what you think!
+END
+
+6>There's no time!
+END
+
+7>Always wear a fireman hat!
+END
+
+8>No!
+END

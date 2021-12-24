@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>strength</filename>
+    <fromString>The Mayor</fromString>
+    <toString>$name</toString>
+    <subject>I want you to climb into the cannon</subject>
+    <content>
+    
+    Hi $name,
+
+    Let's get to the point, quick. I want you to put gunpowder in that cannon, climb inside, and set it off.
+
+    Why? Because I believe it will shoot you all the way to the moon.
+
+    Think about it. How bad could it be? You'll just need to get some gunpowder- try asking around for that. The guy who watches the cannon might know something.
+
+    The Mayor
+    </content>
+    <read>0</read>
+    <torsoSprite>red_coat</torsoSprite>
+    <headSprite>mayor</headSprite>
+    <skinColor>0</skinColor>
+</Email>

@@ -1,0 +1,92 @@
+#grossreact
+Harrow!
+Wellaway!
+Woe! Lo! Woe!
+
+#disturbreact
+God's blood!
+God's hooks!
+s'blood!
+
+#chaosreact
+Death’s head upon a mop-stick!
+Woe!
+I’ll be go-to-hell!
+
+#offensereact
+Forsooth!
+Alas and alack!
+
+#positivereact
+Gramercy, bold yeoman!
+Huzzah!
+
+#nuisance
+Villain, I have done thy mother!
+Misery me!
+Uff-da!
+Truly thou art damned.
+
+
+#newenemy
+En garde!
+Gird thyself!
+You, minion, are too saucy.
+It is fit that I commit offence thus!
+O thou {bad-person}!
+
+#bad-person
+vile one
+bobolyne
+cumberworld
+dew-beater
+fopdoodle
+fustylugs
+dalcop
+fustilarian
+rampallion
+gillie-wet-foot
+gnashgab
+gobermouch
+gowpenful-o'-anything
+klazomaniac
+leasing-monger
+loiter-sack
+lubberwort
+muck-spout
+mumblecrust
+quisby
+raggabrash
+rakefire
+roiderbanks
+saddle-goose
+scobberlotcher
+skelpie-limmer
+smell-feast
+smellfungus
+snoutband
+sorner
+stampcrab
+stymphalist
+tallowcatch
+triptaker
+wandought
+yaldson
+zoilist
+
+#greet-friend
+My sworn friend!
+[[Brother|Sister]]!
+
+#greet-enemy
+Have at you!
+Fiend!
+Away! Thou art poison to my blood!
+
+#greet-neutral
+Stay, friend.
+Anon, good [[sir|madam]]!
+
+#cough
+Alas!
+Gasp! *Choke*

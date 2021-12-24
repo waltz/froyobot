@@ -1,0 +1,46 @@
+0>Hello, $name!
+Ready to redefine the future of the yogurt advertisement industry?
+1)Let's talk about this commercial's direction.
+2)What are your thoughts on this assignment?
+3)No time to talk, Neville. 
+
+1>I always say: an actor can't beat the 1993 NBC prime-time sitcom, Frasier.
+4)When the camera's rolling, don't forget: I am the star. You are my support.
+5)How do you get into character? 
+3)If you say one more word, all the lines I have memorized will leak out of my brain.
+
+2>Just keep it simple! 
+Everyone says you like to showboat, but I know you have an untapped potential for reserved perfomances.
+7)Jealousy is an ugly color on you, Neville.
+8)I swear Neville, keep testing me and I'll give you a taste of my Giga Tiger Chop attack!
+3)I'm going to walk away, and pretend I didn't hear that. How's this for a reserved performance?
+
+3>END
+
+4>Of course. The role is more suited to you anyway.
+Lord knows I can't chew the scenery enough to please management.
+7)I don't chew the scenery, and I can emote circles around you, Neville, circles!!!
+6)Thank you. Let's discuss the other matter, then.
+3)I will try to do better in the future. Goodbye.
+
+5>A good actor should know the character as he knows himself.
+For example, in this role, I ask: who is Dr. Odenkirk, what force animates his life?
+The answer, I think, is yogurt. He is passionate about it.
+In this way, the role unfolds before me like a rare orchid blooming in the Louisiana bayou.
+3)I must take some time now to think about this.
+6)Thank you, I have more questions.
+
+6>What is it?
+1)Let's talk about this commercial's direction.
+2)What are your thoughts on this assignment?
+3)No time to talk, Neville. 
+
+7>It's nothing personal.
+I just think your acting compares unforably to the 1993 NBC prime-time sitcom, Frasier.
+3)Agree to disagree, then.
+3)I'm letting you know, I might start throwing punches.
+3)I can't argue with Frasier.
+
+8>The Yogurt Advertisement Guild will be hearing about this!
+Your behavior on this assignment has been nothing but unprofessional!
+END

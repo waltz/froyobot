@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>scorpion</filename>
+    <fromString>Lawyer</fromString>
+    <toString>$name</toString>
+    <subject>re: scorpion gang</subject>
+    <content>
+    
+  Hi $name,
+
+    Not sure why you were involved in a gang fight on the studio premises. Call me.
+
+  -Steve
+  Legal Dept., EB Productions, Inc.
+
+  P.S. Your signing bonus came in! Check your mail for the package.
+    </content>
+    <read>0</read>
+    <torsoSprite>suit</torsoSprite>
+    <headSprite>generic4</headSprite>
+    <skinColor>1</skinColor>
+</Email>

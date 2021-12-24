@@ -1,0 +1,20 @@
+0>...
+1)Hey there!
+2)Are you OK?
+2)Got anything to eat?
+
+1>...
+2)I SAID "HEY THERE"!
+2)My soul yearns for the high, cool breeze of a free life.
+
+2>...
+3)Nice weather, eh?
+3)Say, are you feeling alright?
+3)Pleased to meet you.
+
+3>...
+4)How are you?
+4)Thanks
+0)Wait, let me start over.
+
+4>END

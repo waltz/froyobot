@@ -1,0 +1,11 @@
+name=turpentine
+r=52
+g=140
+b=41
+a=225
+nutrition=10
+vegetable=1
+meat=0
+immoral=0
+offal=1
+flammable=true

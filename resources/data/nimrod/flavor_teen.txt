@@ -1,0 +1,50 @@
+#grossreact
+Gnarly!
+Bogus!
+Disgusting!
+Shit!
+
+#disturbreact
+Oh my God!
+Holy crap!
+Eeeeeek!
+Freaky!
+
+#chaosreact
+Yikes!
+Watch it!
+
+#offensereact
+So not cool!
+Oh. My. God.
+You can't be serious.
+
+#positivereact
+Bodaceous!
+Tubular!
+
+#nuisance
+Watch it!
+Hey!
+Are we gonna have a problem?
+Phooey to you, from me!
+
+#newenemy
+Time to throw down!
+It's a brawl!
+
+#greet-friend
+Yo!
+Hey {interlocutor}!
+
+#greet-enemy
+Yo!
+
+#greet-neutral
+Yo!
+Hey {interlocutor}.
+
+#cough
+Ack!
+Arg!
+Gasp! *Choke*

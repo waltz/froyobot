@@ -1,0 +1,13 @@
+0>Hello, $eitherName! Enjoying the afterlife?
+1)This isn't much of an afterlife.
+2)I think I'm done here, I'd like to go back now.
+
+1>Oh, and I suppose you think regular life was a real how-do-you-do then?
+I'm sorry that our metaphysical plane of existence isn't up to your standards!
+If you have any complaints, I suggest you take it up with Orobas!
+END
+
+2>Oh sure, right, of course. Let's see...
+If you wait here, the next bus should come by in two millenia!!!
+Har har har har!!!
+END

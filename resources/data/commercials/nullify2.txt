@@ -1,0 +1,7 @@
+Eradicate Hate and Ignorance
+Use the cosmic nullifier to nullify a giant effigy labeled "HATRED", and one labeled "IGNORANCE", then eat yogurt on camera. You'll need a couple nullifiers for this. The commercial will be a great symbolic triumph.
+none
+item,gas_can
+email,nullify3
+yogurt,≥,1,eat yogurt on camera
+nullify_hatred,≥,2,nullify two offensive effigies

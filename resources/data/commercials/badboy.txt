@@ -1,0 +1,8 @@
+1950s Greaser Beatdown
+Oh no! The Scopion Gang has rolled into town! Somebody must stop them! Defeat the scorpion gang!
+none
+unlock,combat2
+item,hand_grenade
+email,scorpion
+yogurt,≥,1,eat yogurt on camera
+killScorpion,5,defeat the Scorpion Gang

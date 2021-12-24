@@ -1,0 +1,11 @@
+name=blood
+r=171
+g=33
+b=33
+a=225
+nutrition=10
+vegetable=0
+meat=1
+immoral=1
+offal=0
+flammable=false

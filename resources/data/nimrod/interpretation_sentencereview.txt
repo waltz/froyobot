@@ -1,0 +1,57 @@
+% provided by context: primary1, primary2, adjective1, adjective2, intro
+
+#review
+{intro}
+
+#bad_low
+The commercial is primarily characterized by {primary1} and {primary2}.
+The commercial is primarily characterized by {primary1}.
+Mildly {adjective2}, featuring {adjective1} {primary1}.
+
+#bad_high
+The commercial {bad_act} {bad_completion}.
+{bad-intro}, the commercial features repeated imagery of {adjective1} {primary1}<0.5| and {primary2}>.
+
+#good_low
+The commercial is primarily characterized by {primary1} and {primary2}.
+The commercial is primarily characterized by {primary1}.
+Measured, thoughtful, {adjective1} {primary1}.
+
+#good_high
+It's a crowd pleaser, with a focus on {adjective1} {primary1}.
+
+
+#bad_act
+spits in the audience's face
+insults the audience's intelligence
+{bad-provoke} audiences
+tests the audience's patience
+tests the audience's tolerance for {primary1}<0.5| and {primary2}>
+
+#bad_completion
+with its insistence on {adjective1} {primary1}
+with a focus on {adjective1} {primary1}<0.5| and {primary2}>
+in a truly {adjective1} {way}
+
+#way
+way
+manner
+fashion
+
+#bad-provoke
+angers
+annoys
+revolts
+insults
+mocks
+offends
+
+#bad-intro
+Flirting dangerously with insanity
+Inexplicably
+For no apparent reason
+Against all standards of good taste
+For no good reason
+Upsettingly
+Disappointingly
+In a strange move

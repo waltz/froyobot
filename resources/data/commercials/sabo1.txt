@@ -1,0 +1,11 @@
+Chaos I
+They're making a yogurt commercial in the studio over there... I want you to go in there and mess it up!!! 
+am1
+unlock,sabo2
+unlock,disgust1
+unlock,disturb1
+unlock,offensive1
+item,workout_supplement
+email,sabo1
+chaos,≥,50,achieve chaos 50<sprite=3>
+sabotage

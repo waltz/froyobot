@@ -1,0 +1,104 @@
+0>Who has come to visit us?
+Oh, it's you, $name. 
+1)Who are you?
+19)Do your buddies talk?
+
+1>I am Polestar Superswan!
+I sense great potential in you.
+Are you ready to fulfill your destiny?
+3)$name is my name and destiny is my game.
+2)Uh, no.
+
+2>Oh, I'm sorry to intrude. Perhaps another time.
+END
+
+3>I believe that other people can be a mirror in which we see ourselves.
+Allow me to ask you a few questions.
+2)I don't need to play your games, Quizbook McGee!
+4)Let's see where this goes.
+
+4>POLESTARCALLBACK
+First, a question about how you live your life.
+Would you say you "cut a fiery swath through the landscape of life's opportunities"?
+Or did you course and flow like a river?
+5)The fiery swath one sounds like me.
+6)The water one, definitely.
+7)Not sure, to be honest.
+
+5>I see.
+Next, about your character.
+Are you a human being, and not a cabbage or something?
+8)Yes.
+9)No.
+
+6>Mmmm, interesting.
+Next, about your character.
+Are you a human being, and not a cabbage or something?
+8)Yes.
+9)No.
+
+7>Oh, that's okay.
+Next, about your character.
+Are you a human being, and not a cabbage or something?
+8)Yes.
+9)No.
+
+8>That's too bad. Do you wish to better yourself?
+10)Yes.
+11)No.
+
+9>Good for you. Do you wish to better yourself?
+10)Yes.
+11)No.
+
+10>How stupid. Are you willing to become philisophically illuminized?
+13)Yes.
+13)No.
+
+11>How crass. Are you willing to become philisophically illuminized?
+13)Yes.
+13)No.
+
+12>Very funny. Will you dedicate yeself to the holy Erisian movement?
+13)Yes.
+14)No.
+
+13>Very bold.
+Now I shall bestow on you your cosmic name.
+15)My what now?
+15)Hit me.
+15)What's wrong with $name?
+
+14>That's okay. A bit presumptuous of me, really.
+Now I shall bestow on you your cosmic name.
+15)Make it a good one.
+15)What's wrong with $name?
+
+15>Your cosmic name shall be...
+TEXTSIZE:LARGE
+GONGSOUND
+$cosmicName !!!
+16)Yikes!
+16)Whoah!
+16)I accept it with pride.
+
+16>I have one more gift for you, $cosmicName.
+I bestow on you the gift of teleportation!
+You will be able to teleport to any location you've visited so far.
+But you can only use this power once per day.
+18)How does it work?
+17)Well, that's neat. Thanks, I guess.
+17)I'll believe it when I see it.
+
+17>Go in peace now, $cosmicName.
+END
+
+18>Think of your apartment.
+It is now in your head, no?
+Now simply walk from your head into your apartment.
+17)I'm not sure that even makes sense.
+17)I'll give it a shot, thanks.
+17)Sounds like a hoot.
+
+19>They have taken a vow of silence.
+1)Who are you?

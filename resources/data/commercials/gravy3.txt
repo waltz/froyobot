@@ -1,0 +1,9 @@
+Gremlin Time
+Gremlins are loose in the gravy studio! But we need you to eat 50 gravy?
+am1
+unlock,gravy4
+unlock,venus
+item,feraliminial_lycanthropizer
+gravy,≥,50,eat 50 gravy on camera
+gravyCommercial
+gremlins

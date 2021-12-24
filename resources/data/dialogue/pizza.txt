@@ -1,0 +1,17 @@
+0>The pizza box... You ordered it, we came!™
+One large cheese pizza, [[sir|ma'am]]! Thank you for ordering Lament Configuration Pizza! 
+2)Who called for a pizza?
+3)Not now, pizza boy!
+4)Do you enjoy your job?
+
+1>END
+
+2>Oh no, don't tell me I screwed up the address again!
+1)I'll take that pizza off your hands, no questions asked.
+
+3>Up yours, [[dude|lady]]. Stop wasting my time.
+1)This is sadly typical of my interactions with pizza delivery men.
+
+4>You wouldn't believe some of the shit I've seen, [[man|lady]].
+Some day, I'm gonna be the personal pizza delivery boy for the Pope himself. 
+1)Keep dreaming.

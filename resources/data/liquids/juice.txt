@@ -1,0 +1,11 @@
+name=juice
+r=0
+g=0
+b=0
+a=225
+nutrition=10
+vegetable=0
+meat=0
+immoral=0
+offal=0
+flammable=false

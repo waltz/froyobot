@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>fire</filename>
+    <fromString>Producer Susan</fromString>
+    <toString>$name</toString>
+    <subject>what happened out there?</subject>
+    <content>
+    
+  Hi $name,
+
+  The legal department has been trying to get ahold of you since yesterday. You should really give them a call as soon as you see this.
+
+  Nevertheless, we commend your acting and your gumption. Check the mail for your reward.
+ 
+      -Susan
+  Producer, EB Productions, Inc.
+        
+    </content>
+    <read>0</read>
+    <torsoSprite>skirt_red</torsoSprite>
+    <headSprite>girl</headSprite>
+    <skinColor>2</skinColor>
+</Email>

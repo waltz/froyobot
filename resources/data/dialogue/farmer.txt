@@ -1,0 +1,11 @@
+0>Howdy stranger! Sale on eggplants today, a dollar each!
+1)I can't afford your eggplant.
+2)Just browsing, thanks.
+
+1>Aren't you that new yogurt commercial actor?
+Don't you get paid for your work?
+2)I haven't set up direct deposit yet.
+2)I spend all my money as soon as I get it on riotous living.
+2)I don't have time for this!
+
+2>END

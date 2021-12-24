@@ -1,0 +1,9 @@
+Torch That Table!
+Eat the yogurt like usual, but also set the table on fire. You'll have to get fire from somewhere. 
+eat2
+unlock,fireman
+unlock,badboy
+item,lighter
+email,fire
+yogurt,≥,1,eat yogurt on camera
+table_fire,≥,1,light table on fire

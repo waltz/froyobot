@@ -1,0 +1,40 @@
+0>Ha ha ha! Wow! 
+We just saved the company by creating the Ultimate Yogurt Commercial of All Time!
+What a thrill!
+1)So, uh, I was just gonna get going...
+1)At last, the production is a wrap.
+
+1>You know, speaking of the company, there's still that little issue with the CEO...
+He disappeared with all the money! Now there's a power vacuum at the highest level!
+2)Sounds like tough luck. Could you point me to the exit?
+2)What do you want me to do about it?
+
+2>They could really use someone smart like you...
+Say, how would you like to be CEO of Bob Yogurt?
+3)I'd much rather you tell me how to get out of here.
+4)Me, a CEO? Tell me more.
+
+3>Are you really that ungrateful? Or are you just dense?
+I'm offering you power and riches beyond anything you've known...
+Ah, well. You'll come around, I suppose. Let me know if you change your mind.
+END
+
+4>I will return you to your life on the surface. 
+You will take on the role of CEO of Bob Yogurt.
+You can continue to play the game.
+How's that sound? Pretty sweet deal, huh?
+5)Let's do it!
+6)What's the catch?
+
+5>Marvelous! You won't regret it!
+SATANCALLBACK
+I think this will be the start of a wonderful work relationship!
+We're going to become fast pals, you and I!
+I will now send you back to your apartment. You're gonna be great!
+END
+
+6>No catch! Isn't that great?
+I'll make you the CEO of the company. Then you just look after the business.
+Honestly, it's not that hard. You'll do great.
+5)Okay, I'm in.
+3)Sounds too good to be true. I don't think I'll take your offer.

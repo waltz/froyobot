@@ -1,0 +1,35 @@
+0>Hello. I am Satan.
+1)Are you the guy from that statue of the demon wrestling a giant snake?
+2)So you're the king of this city?
+
+1>My dear [[man|woman]], nobody knows this but I have the soul of an artist!
+This throne, this city.... The fife-player.... I would give it all in an instant!
+And that statue is based on the time I wrestled the snake from "Anaconda."
+3)An artist? You?
+4)Well, why don't you give it up then?
+
+2>Oh! This horrid city! 
+These vast halls of wealth and power I command! The shrill tune of the fife-player! It is a prison!
+Believe me when I tell you, my dear [[man|woman]], it is a prison and no mistake!!
+These riches do not satisfy my inner soul, the soul of an artist!
+4)If you hate it so much, why do you live this way?
+3)Have you tried the smoothie shack?
+
+3>In truth, I long for the wild and carefree life of the bohemian...
+But could I ever escape my legacy, my family? This prison? No! 
+O! The life of a yogurt commercial actor! A life of adventure! Thrills! Oh, to be that wild and carefree!
+5)Let me tell ya, it's not all it's cracked up to be.
+
+4>Oh, I could never actually leave it all behind, you realize. 
+Though I would be happy to live in a squalid apartment, drinking "alcoholic seltzers" and sleeping in a bathtub, I am bound too tight by these golden chains.
+Greatness, and great potential: I am accursed of these.
+I truly envy the carefree life of, for example, the humble yogurt commercial actor.
+5)Let me tell ya, it's not all it's cracked up to be.
+
+5>Oh! You are a yogurt commercial actor? You?
+You? Really?
+...
+Are we in a yogurt commercial right now?
+6)That's what I'm here to do. Let's grab my camera and get down to business. Yogurt business.
+
+6>END

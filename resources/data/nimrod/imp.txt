@@ -1,0 +1,16 @@
+#ingredientDesc
+Very {adjective}.
+Very {adjective}. Very {adjective}!
+How {adjective}.
+
+#adjective
+rare
+mysterious
+interesting
+curious
+strange
+impressive
+magical
+beautiful
+lovely
+enchanting

@@ -1,0 +1,14 @@
+0>Welcome to the global headquarters of Yogurt Co!
+1)What are you doing here?
+2)What is your job?
+3)Goodbye
+
+1>{what}
+2)What is your job?
+3)Goodbye
+
+2>{what-i-do}
+1)What are you doing here?
+3)Goodbye
+
+3>END

@@ -1,0 +1,4 @@
+0>That looked like it hurt! You really took a beating there!
+Are you confused? Yes, you're alive again, back in your apartment.
+You're okay. In fact, nothing is lost! Let me show you.
+END

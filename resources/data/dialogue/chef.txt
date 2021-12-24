@@ -1,0 +1,44 @@
+0>Come on in, buddy, grab a seat.
+Welcome to Hell's Kitchen.
+1)We're in hell?
+2)What's on the menu?
+
+1>Sure, buddy, sure.
+You're in hell. That's right. Yep.
+3)It's just that, I thought it would be, kind of, harder to get to?
+
+2>Demons love the Chef's Special, Hell Medley!
+It's a stew of shredded documents, amphetamines, and crude oil!
+8)That's probably not safe for human consumption?
+9)I'll help myself, thanks. 
+
+3>Harder to get to?
+4)Like, I just had to go down a ladder in the sewer. How does that work?
+5)I'm not even dead. Isn't this an afterlife kind of place?
+
+4>Huh!!! You mean you came down from the sewer access? Gross!!
+Well if you're looking for Hell proper, it's way over to the left there, over the crevice.
+6)How do I get over there?
+7)If this is Hell, does that mean The Devil is here somewhere, too?
+
+5>What are you, the Riddler?
+I don't know how any of this works! I'm just the Chef!
+If you're looking for Hell proper, it's way over to the left there, past the crevice.
+6)How do I get over there?
+7)If this is Hell, does that mean The Devil is here somewhere, too?
+
+6>You want the main entrance, not this back alley.
+You'll have to go out and come back in the front gate.
+7)If this is Hell, does that mean The Devil is here somewhere, too?
+2)While I'm here, what's on the menu?
+
+7>Oh, you mean the Big Guy? Yeah he's down in lower hell. We are in a small corner of upper hell.
+His throne or whatever is down there, somewhere. I guess.
+6)How would I get down there?
+2)So, what's on the menu?
+
+8>Well demons love it!!! It rules!!!!!!
+6)Listen, I want to get across this crevice.
+7)If this is Hell, does that mean The Devil is here somewhere, too?
+
+9>END

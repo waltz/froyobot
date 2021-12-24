@@ -1,0 +1,38 @@
+% provided by context: what-happened, main
+
+#review
+{main}
+
+#bad_low
+The climax of the commercial was when {what-happened}.
+The scene where {event} elicited negative feedback from several focus group members.
+
+#good_low
+The climax of the commercial was when {what-happened}.
+When pressed to name a favorite moment, audience members cited the part where {what-happened}. 
+
+#bad_high
+The unquestioned low point of this {adjective1} commercial was when {what-happened}.
+The climax of the commercial, when {what-happened}, left audience members {audience-reaction-bad}.
+A low point of the commercial features heinous yogurt vomiting.
+
+#audience-reaction-bad
+{action}
+{action} and {action}
+running for the exits
+
+#action
+crying
+rolling in the aisle
+heaving<0.5| and gasping>
+shocked
+speechless
+mortified
+in a shocked stupor
+angry
+confused
+covering their faces
+
+#good_high
+Audiences are loving the {adjective1} conclusion when {what-happened}.
+Audiences thrilled at the climax of the commercial, when ___

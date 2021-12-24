@@ -1,0 +1,46 @@
+#grossreact
+Yuck!
+Gross!
+Ick.
+Blarg.
+Hee hee!
+*hurp* Oh God!
+
+#disturbreact
+*gasp*!
+Eeeek!
+Yee hee hee!
+
+#chaosreact
+Yeeikes!
+Yikers!
+Yeeeeee hee heee!
+
+#offensereact
+Bwa ha ha ha!
+Yee ha ha hee!
+
+#positivereact
+Praise Satan!
+
+#nuisance
+Beware!
+I wouldn't do that if I were you!
+
+#newenemy
+Curses!
+Curse you!
+
+#greet-friend
+Hello dearie!
+
+#greet-enemy
+Ho ho ho ho! Yeeeeeee!
+
+#greet-neutral
+Yee hee hee!
+
+#cough
+Ack!
+Arg!
+Gasp! *Choke*

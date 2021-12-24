@@ -1,0 +1,27 @@
+MOE:So, gentlemen
+0.1
+MOE:What do you think of our new commercial?
+1
+LARRY:Wonderful!&
+CURLY:Fantastic!
+0.5
+CURLY:Moving!
+0
+LARRY:Artful!
+1.75
+LARRY:A bit dull.&
+CURLY:It was a bit dull.
+1
+MOE:Dull, eh? We can't have a dull commercial!
+MOE:It doesn't do justice to our dynamic yogurt!
+MOE:This commercial is unacceptable! Suggestions?
+2
+LARRY:Fire. It needs flames.
+0.2
+CURLY:Yes! Fire! Can we get them to set the table on fire?
+0.5
+MOE:Fire! I love it!
+0
+MOE:Call the studio immediately!
+1
+END

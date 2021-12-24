@@ -1,0 +1,42 @@
+0>Welcome traveler! Well met! You must have journeyed long to reach this place.
+1)Who are you?
+
+1>I am Orobas. Welcome to my office.
+I'm a bit of an amateur historian. Feel free to look around.
+2)Thanks, I will.
+3)What are you studying?
+
+2>END
+
+3>I collect artifacts from the forgotten civilizations. Have you heard of the transplutonian empire?
+Very few artifacts from that period remain. I've gathered what records I can here, in Hell.
+4)What was the transplutonian empire?
+5)What artifacts do you have here?
+
+4>Remnants of this era are so scarce and forgotten that today among your people it is nothing more than myth.
+From what we've been able to learn, an ancient race of giants formed a planet-spanning civilization thousands of years before recorded history.
+Ruins of their outposts can still be found on Venus, the moon, and other planets.
+5)What artifacts do you have here?
+6)Are you talking about Atlantis?
+7)How did this empire end?
+
+5>It looks small, but this collection is probably the largest of its kind.
+I have here many ancient writing fragments that preserve some legends of the transplutonian empire.
+Some, like the book of Eibon, may be traced directly to this ancient civilization.
+4)What was the transplutonian empire?
+8)What is the book of Eibon? 
+
+6>The Atlantis myth is one ancient trace of them, yes. But mostly wrong in the details.
+5)What artifacts do you have here?
+7)How did this empire end?
+
+7>It's not entirely clear, but it seems that they were abruptly wiped out in some great cataclysm.
+Was it war? A cosmic impact? Disease?
+It seems likely, to me, that they were unable to adapt to the ending of the ice age.
+5)What artifacts do you have here?
+
+8>This book is the oldest magical tome I've ever been able to find.
+It seems to regard certain advanced techniques in teleportation.
+Legend suggests it "holds the keys to space and time."
+4)What was the transplutonian empire?
+

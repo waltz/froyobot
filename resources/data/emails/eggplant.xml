@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>eggplant</filename>
+    <fromString>Producer Susan</fromString>
+    <toString>$name</toString>
+    <subject>much eggplants!</subject>
+    <content>
+    
+  Hi $name,
+
+  I can't believe you ate ten eggplants on camera. Honestly, we just wanted to see if you would actually do it.
+
+  Anyway, we dug deep in our pockets to come up with what we think is an appropriate reward. 
+
+  I hope you like it...?
+
+      -Susan
+  Producer, EB Productions, Inc.
+    </content>
+    <read>0</read>
+    <torsoSprite>skirt_red</torsoSprite>
+    <headSprite>girl</headSprite>
+    <skinColor>2</skinColor>
+</Email>

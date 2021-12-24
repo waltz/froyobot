@@ -1,0 +1,12 @@
+name=death potion
+r=50
+g=100
+b=100
+a=155
+nutrition=10
+vegetable=0
+meat=0
+immoral=0
+offal=0
+flammable=false
+death=true

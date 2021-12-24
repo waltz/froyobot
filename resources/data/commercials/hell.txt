@@ -1,0 +1,7 @@
+Hell Commercial
+Shoot a yogurt commercial in hell.
+none
+unlock,satan
+item,suitcase
+yogurt,≥,1,eat yogurt on camera
+location,eat yogurt in hell,hells_kitchen,hells_landing,hells_vomit_ratchet,devils_throneroom,lower_hell

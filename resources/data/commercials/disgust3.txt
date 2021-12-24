@@ -1,0 +1,7 @@
+Disgusting III
+They're making a yogurt commercial in the studio over there... I want you to go in there and mess it up!!! 
+am1
+item,katana
+email,sabo1
+disgusting,≥,750,achieve disgusting 750<sprite=0>
+sabotage

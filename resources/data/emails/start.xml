@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>start</filename>
+    <fromString>Producer Susan</fromString>
+    <toString>$name</toString>
+    <subject>Welcome to the team!</subject>
+    <content>
+    
+  Hi $name,
+  
+  Welcome to EB Productions! We're excited to work with you.
+
+  Come on down to the commercial studio and we'll get started.
+  We're shooting commercials for Bob yogurt today.
+
+  -Susan
+  Producer, EB Productions, Inc.
+    </content>
+    <read>0</read>
+    <torsoSprite>skirt_red</torsoSprite>
+    <headSprite>girl</headSprite>
+    <skinColor>2</skinColor>
+</Email>

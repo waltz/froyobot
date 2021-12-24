@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <filename>nullify1</filename>
+    <fromString>CEO</fromString>
+    <toString>$name</toString>
+    <subject>A big W for Bob Yogurt</subject>
+    <content>
+    
+    Hi $name,
+
+Our public image sucks! That’s the problem!
+
+PR dept. has provided me with a list of Bad things Bob Yogurt has done: 
+
+    * funded a paramilitary mercenary group 
+    * embroiled in international diplomatic incident, sanctioned by the UN
+    * social media team posted “lol @ humanitarian crises” on the official social media account
+
+In short, $name, it's not good. We need to shore up our image, and we think you can help. 
+
+We’ve got a giant effigy labeled “hate”, we’d like you to annihilate it with the cosmic nullifier as part of a commercial. 
+
+The PR team assures me this will make a powerful statement and it might even go viral.
+
+- Howard, CEO, Bob Yogurt
+    </content>
+    <read>0</read>
+    <torsoSprite>suit</torsoSprite>
+    <headSprite>ceo</headSprite>
+    <skinColor>0</skinColor>
+</Email>

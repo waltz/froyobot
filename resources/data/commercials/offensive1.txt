@@ -1,0 +1,8 @@
+Offensive I
+They're making a yogurt commercial in the studio over there... I want you to go in there and mess it up!!! 
+am1
+unlock,offensive2
+item,VX_nerve_gas_ventilator
+email,sabo1
+offensive,≥,50,achieve offensive 50<sprite=2>
+sabotage

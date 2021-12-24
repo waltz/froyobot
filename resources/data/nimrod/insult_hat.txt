@@ -1,0 +1,14 @@
+% provided by context: target-hat
+
+#intro
+What's that on your head, a dead raccoon?
+
+#insult
+Have you seen my {sarcastic-hat}? Oh nevermind, I see you are wearing it on your head
+
+#sarcastic-hat
+giant pile of elephant shit
+failed taxidermy experiment
+dead rat
+pet tarantula
+dunce cap
