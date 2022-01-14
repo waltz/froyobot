@@ -2,7 +2,7 @@ import os
 import re
 import random
 
-from nimrod import Grammar 
+from nimrod import Grammar
 
 from .message_validator import isMessageValid
 
@@ -16,7 +16,7 @@ class MessageGetter:
         """ Find a list of test files in the base directory that have message content in them. """
 
         files = os.listdir(self.basedir)
-        findTextFiles = lambda filename: False if re.search('.*\.txt', filename) is None else True 
+        findTextFiles = lambda filename: False if re.search('.*\.txt', filename) is None else True
         removeExtension = lambda filename: filename[0:-4]
         datafiles = map(removeExtension, filter(findTextFiles, files))
 
@@ -24,7 +24,7 @@ class MessageGetter:
 
     def getMessage(self, dataFile):
         """
-        Take a data file and shove it in to Nimrod. Take the resulting grammar and ask it for a phrase. 
+        Take a data file and shove it in to Nimrod. Take the resulting grammar and ask it for a phrase.
         These grammars have multiple symbols inside of them, sometimes we need to hunt for non-default
         grammars.
         """
