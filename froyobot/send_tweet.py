@@ -16,8 +16,15 @@ def sendTweet():
     consumer_key = os.getenv('CONSUMER_KEY')
     consumer_secret = os.getenv('CONSUMER_SECRET')
 
+    status = getStatus()
+
     client = Twitter(auth=OAuth(token, token_secret, consumer_key, consumer_secret))
-    client.statuses.update(status=getStatus())
+    response = client.statuses.update(status=getStatus())
+
+    print('Post success.')
+    print(response['text'])
+    print(response['created_at'])
+    print('https://twitter.com/i/status/' + str(response['id']))
 
 if __name__ == "__main__":
     sendTweet()
