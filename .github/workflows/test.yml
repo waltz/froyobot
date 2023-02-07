@@ -8,12 +8,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.7
+        uses: actions/setup-python@v3
 
       - name: Install Dependencies
         run: |
@@ -22,4 +20,4 @@ jobs:
           pipenv install
 
       - name: Run Tests
-        run: pipenv run python -m unittest discover tests 
+        run: pipenv run python -m unittest discover tests
